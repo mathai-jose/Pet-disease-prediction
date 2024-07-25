@@ -1,0 +1,1301 @@
+Pet ID,Species,Breed,Age,Symptoms,Medical Health,Treatment,Weight (kg),Owner ID,Checkup Date
+PET0001,Rabbit,Mini Rex,2,Coughing,Critical,Surgery,3.83,OWN0001,2022-01-01
+PET0002,Hamster,Dwarf Campbell,3,Vomiting,Recovering,Therapy,39.39,OWN0002,2022-01-02
+PET0003,Bird,Finch,13,Lethargy,Chronic Illness,None,26.82,OWN0003,2022-01-03
+PET0004,Hamster,Winter White,7,Diarrhea,Chronic Illness,None,11.77,OWN0004,2022-01-04
+PET0005,Hamster,Roborovski,6,Coughing,Recovering,Surgery,23.64,OWN0005,2022-01-05
+PET0006,Cat,Persian,12,Sneezing,Chronic Illness,None,4.82,OWN0006,2022-01-06
+PET0007,Bird,Parakeet,8,Lethargy,Healthy,Surgery,38.65,OWN0007,2022-01-07
+PET0008,Bird,Parrot,8,Sneezing,Chronic Illness,None,7.4,OWN0008,2022-01-08
+PET0009,Bird,Parakeet,6,Sneezing,Chronic Illness,Medication,26.1,OWN0009,2022-01-09
+PET0010,Hamster,Winter White,12,Vomiting,Recovering,Surgery,10.2,OWN0010,2022-01-10
+PET0011,Rabbit,Holland Lop,11,Vomiting,Recovering,Surgery,28.84,OWN0011,2022-01-11
+PET0012,Bird,Cockatiel,10,Lethargy,Chronic Illness,Observation,31.18,OWN0012,2022-01-12
+PET0013,Hamster,Dwarf Campbell,3,Diarrhea,Minor Illness,None,27.1,OWN0013,2022-01-13
+PET0014,Cat,Siamese,3,Lethargy,Recovering,None,24.77,OWN0014,2022-01-14
+PET0015,Rabbit,Mini Rex,1,Diarrhea,Critical,Surgery,35.75,OWN0015,2022-01-15
+PET0016,Cat,Persian,7,Sneezing,Critical,Medication,3.61,OWN0016,2022-01-16
+PET0017,Rabbit,Flemish Giant,5,Coughing,Healthy,Medication,13.57,OWN0017,2022-01-17
+PET0018,Hamster,Dwarf Campbell,4,Lethargy,Chronic Illness,Medication,10.31,OWN0018,2022-01-18
+PET0019,Dog,Poodle,10,Lethargy,Minor Illness,None,39.53,OWN0019,2022-01-19
+PET0020,Rabbit,Netherland Dwarf,4,Diarrhea,Healthy,Observation,15.88,OWN0020,2022-01-20
+PET0021,Cat,Persian,14,Sneezing,Chronic Illness,Surgery,29.44,OWN0021,2022-01-21
+PET0022,Hamster,Roborovski,4,Sneezing,Recovering,Therapy,27.55,OWN0022,2022-01-22
+PET0023,Rabbit,Mini Rex,6,Diarrhea,Critical,Observation,8.88,OWN0023,2022-01-23
+PET0024,Dog,Terrier,8,Sneezing,Minor Illness,Therapy,9.94,OWN0024,2022-01-24
+PET0025,Dog,Beagle,8,Vomiting,Critical,Observation,11.61,OWN0025,2022-01-25
+PET0026,Bird,Finch,5,Coughing,Recovering,Medication,16.74,OWN0026,2022-01-26
+PET0027,Bird,Finch,6,Lethargy,Chronic Illness,None,9.76,OWN0027,2022-01-27
+PET0028,Cat,Bengal,4,Coughing,Recovering,Therapy,1.28,OWN0028,2022-01-28
+PET0029,Rabbit,Mini Rex,12,Lethargy,Recovering,Observation,35.24,OWN0029,2022-01-29
+PET0030,Rabbit,Holland Lop,14,Vomiting,Critical,None,38.64,OWN0030,2022-01-30
+PET0031,Bird,Cockatiel,11,Sneezing,Minor Illness,Therapy,13.99,OWN0031,2022-01-31
+PET0032,Rabbit,Mini Rex,13,Diarrhea,Recovering,Surgery,13.87,OWN0032,2022-02-01
+PET0033,Rabbit,Flemish Giant,9,Vomiting,Critical,Observation,0.78,OWN0033,2022-02-02
+PET0034,Dog,Labrador,8,Coughing,Minor Illness,Surgery,27.37,OWN0034,2022-02-03
+PET0035,Bird,Parakeet,10,Diarrhea,Chronic Illness,Medication,33.1,OWN0035,2022-02-04
+PET0036,Hamster,Syrian,12,Sneezing,Chronic Illness,Surgery,6.29,OWN0036,2022-02-05
+PET0037,Bird,Canary,10,Vomiting,Healthy,Surgery,6.81,OWN0037,2022-02-06
+PET0038,Hamster,Syrian,1,Diarrhea,Critical,Observation,31.71,OWN0038,2022-02-07
+PET0039,Dog,Bulldog,2,Vomiting,Minor Illness,Medication,24.84,OWN0039,2022-02-08
+PET0040,Cat,Sphynx,9,Vomiting,Recovering,Surgery,2.27,OWN0040,2022-02-09
+PET0041,Rabbit,Holland Lop,8,Sneezing,Chronic Illness,None,25.09,OWN0041,2022-02-10
+PET0042,Dog,Labrador,14,Lethargy,Minor Illness,Therapy,12.7,OWN0042,2022-02-11
+PET0043,Rabbit,Lionhead,3,Diarrhea,Critical,Surgery,15.06,OWN0043,2022-02-12
+PET0044,Cat,Sphynx,8,Sneezing,Healthy,Medication,30.9,OWN0044,2022-02-13
+PET0045,Cat,Persian,12,Vomiting,Chronic Illness,Surgery,32.53,OWN0045,2022-02-14
+PET0046,Dog,Bulldog,1,Sneezing,Minor Illness,Therapy,16.31,OWN0046,2022-02-15
+PET0047,Cat,Persian,10,Lethargy,Minor Illness,Medication,37.91,OWN0047,2022-02-16
+PET0048,Hamster,Winter White,4,Diarrhea,Minor Illness,Observation,16.56,OWN0048,2022-02-17
+PET0049,Cat,Siamese,3,Lethargy,Critical,Medication,30.99,OWN0049,2022-02-18
+PET0050,Rabbit,Holland Lop,6,Coughing,Critical,Observation,19.61,OWN0050,2022-02-19
+PET0051,Rabbit,Mini Rex,7,Diarrhea,Critical,Medication,35.95,OWN0051,2022-02-20
+PET0052,Rabbit,Holland Lop,4,Lethargy,Recovering,Therapy,36.36,OWN0052,2022-02-21
+PET0053,Rabbit,Holland Lop,7,Vomiting,Minor Illness,Therapy,3.95,OWN0053,2022-02-22
+PET0054,Hamster,Syrian,9,Diarrhea,Chronic Illness,Medication,37.49,OWN0054,2022-02-23
+PET0055,Bird,Parakeet,11,Diarrhea,Critical,Surgery,33.11,OWN0055,2022-02-24
+PET0056,Dog,Bulldog,2,Sneezing,Critical,Therapy,31.76,OWN0056,2022-02-25
+PET0057,Rabbit,Lionhead,11,Vomiting,Minor Illness,Observation,8.44,OWN0057,2022-02-26
+PET0058,Cat,Persian,3,Coughing,Critical,Observation,32.3,OWN0058,2022-02-27
+PET0059,Rabbit,Mini Rex,5,Lethargy,Recovering,None,34.08,OWN0059,2022-02-28
+PET0060,Cat,Sphynx,3,Sneezing,Recovering,Observation,11.92,OWN0060,2022-03-01
+PET0061,Cat,Sphynx,11,Lethargy,Critical,None,38.11,OWN0061,2022-03-02
+PET0062,Rabbit,Lionhead,8,Coughing,Minor Illness,Medication,2.47,OWN0062,2022-03-03
+PET0063,Hamster,Chinese,12,Coughing,Minor Illness,Medication,6.42,OWN0063,2022-03-04
+PET0064,Cat,Maine Coon,10,Diarrhea,Minor Illness,Medication,21.73,OWN0064,2022-03-05
+PET0065,Cat,Sphynx,8,Coughing,Healthy,Surgery,23.24,OWN0065,2022-03-06
+PET0066,Rabbit,Netherland Dwarf,8,Lethargy,Critical,Surgery,25.98,OWN0066,2022-03-07
+PET0067,Cat,Siamese,12,Vomiting,Minor Illness,None,1.17,OWN0067,2022-03-08
+PET0068,Cat,Bengal,12,Vomiting,Recovering,Observation,38.43,OWN0068,2022-03-09
+PET0069,Rabbit,Flemish Giant,9,Diarrhea,Chronic Illness,Observation,2.26,OWN0069,2022-03-10
+PET0070,Rabbit,Lionhead,4,Lethargy,Chronic Illness,Medication,6.15,OWN0070,2022-03-11
+PET0071,Dog,Bulldog,5,Lethargy,Minor Illness,Therapy,1.05,OWN0071,2022-03-12
+PET0072,Hamster,Winter White,5,Coughing,Chronic Illness,Surgery,22.89,OWN0072,2022-03-13
+PET0073,Hamster,Winter White,8,Lethargy,Chronic Illness,Surgery,37.32,OWN0073,2022-03-14
+PET0074,Cat,Maine Coon,7,Sneezing,Healthy,Medication,26.8,OWN0074,2022-03-15
+PET0075,Hamster,Winter White,9,Coughing,Recovering,Surgery,32.99,OWN0075,2022-03-16
+PET0076,Cat,Persian,14,Sneezing,Recovering,Medication,1.02,OWN0076,2022-03-17
+PET0077,Dog,Poodle,8,Diarrhea,Healthy,None,21.91,OWN0077,2022-03-18
+PET0078,Rabbit,Netherland Dwarf,2,Vomiting,Healthy,Observation,18.65,OWN0078,2022-03-19
+PET0079,Rabbit,Holland Lop,10,Diarrhea,Chronic Illness,Therapy,20.21,OWN0079,2022-03-20
+PET0080,Rabbit,Netherland Dwarf,12,Vomiting,Critical,Observation,3.35,OWN0080,2022-03-21
+PET0081,Hamster,Syrian,4,Diarrhea,Chronic Illness,Observation,27.54,OWN0081,2022-03-22
+PET0082,Dog,Labrador,6,Lethargy,Healthy,None,20.38,OWN0082,2022-03-23
+PET0083,Hamster,Dwarf Campbell,12,Sneezing,Recovering,Surgery,30.72,OWN0083,2022-03-24
+PET0084,Hamster,Roborovski,2,Vomiting,Chronic Illness,Therapy,19.67,OWN0084,2022-03-25
+PET0085,Dog,Terrier,7,Coughing,Critical,Surgery,6.4,OWN0085,2022-03-26
+PET0086,Dog,Terrier,3,Sneezing,Chronic Illness,Observation,26.11,OWN0086,2022-03-27
+PET0087,Dog,Labrador,13,Coughing,Minor Illness,Medication,7.31,OWN0087,2022-03-28
+PET0088,Dog,Labrador,3,Sneezing,Chronic Illness,Observation,34.96,OWN0088,2022-03-29
+PET0089,Rabbit,Lionhead,11,Sneezing,Healthy,Surgery,24.72,OWN0089,2022-03-30
+PET0090,Bird,Parakeet,2,Diarrhea,Recovering,Observation,6.71,OWN0090,2022-03-31
+PET0091,Bird,Canary,11,Vomiting,Recovering,Medication,38.51,OWN0091,2022-04-01
+PET0092,Dog,Labrador,8,Vomiting,Healthy,None,20.98,OWN0092,2022-04-02
+PET0093,Bird,Cockatiel,6,Sneezing,Minor Illness,Surgery,3.38,OWN0093,2022-04-03
+PET0094,Bird,Finch,1,Lethargy,Healthy,Observation,25.26,OWN0094,2022-04-04
+PET0095,Dog,Beagle,12,Lethargy,Chronic Illness,Surgery,10.5,OWN0095,2022-04-05
+PET0096,Bird,Finch,1,Coughing,Healthy,None,32.25,OWN0096,2022-04-06
+PET0097,Hamster,Dwarf Campbell,7,Coughing,Healthy,Observation,32.8,OWN0097,2022-04-07
+PET0098,Cat,Persian,8,Diarrhea,Minor Illness,Observation,39.17,OWN0098,2022-04-08
+PET0099,Cat,Siamese,5,Sneezing,Chronic Illness,Surgery,20.32,OWN0099,2022-04-09
+PET0100,Dog,Poodle,12,Coughing,Critical,Surgery,18.47,OWN0100,2022-04-10
+PET0101,Rabbit,Lionhead,11,Coughing,Critical,Medication,30.26,OWN0101,2022-04-11
+PET0102,Dog,Terrier,5,Sneezing,Recovering,None,5.73,OWN0102,2022-04-12
+PET0103,Rabbit,Mini Rex,4,Diarrhea,Healthy,Medication,22.1,OWN0103,2022-04-13
+PET0104,Cat,Siamese,14,Coughing,Recovering,Observation,22.08,OWN0104,2022-04-14
+PET0105,Dog,Labrador,6,Diarrhea,Minor Illness,Surgery,4.03,OWN0105,2022-04-15
+PET0106,Hamster,Chinese,14,Vomiting,Critical,Observation,17.01,OWN0106,2022-04-16
+PET0107,Bird,Cockatiel,6,Diarrhea,Healthy,Observation,34.2,OWN0107,2022-04-17
+PET0108,Rabbit,Netherland Dwarf,3,Lethargy,Minor Illness,Therapy,34.32,OWN0108,2022-04-18
+PET0109,Bird,Finch,9,Lethargy,Minor Illness,Therapy,4.42,OWN0109,2022-04-19
+PET0110,Bird,Parrot,12,Diarrhea,Healthy,Observation,4.08,OWN0110,2022-04-20
+PET0111,Dog,Poodle,11,Lethargy,Minor Illness,Surgery,10.88,OWN0111,2022-04-21
+PET0112,Bird,Finch,14,Vomiting,Healthy,Observation,35.05,OWN0112,2022-04-22
+PET0113,Hamster,Chinese,7,Sneezing,Healthy,Therapy,5.59,OWN0113,2022-04-23
+PET0114,Bird,Cockatiel,1,Lethargy,Chronic Illness,Surgery,28.94,OWN0114,2022-04-24
+PET0115,Dog,Labrador,13,Lethargy,Recovering,Observation,4.5,OWN0115,2022-04-25
+PET0116,Hamster,Roborovski,7,Diarrhea,Minor Illness,None,25.11,OWN0116,2022-04-26
+PET0117,Cat,Siamese,5,Vomiting,Minor Illness,None,14.56,OWN0117,2022-04-27
+PET0118,Bird,Canary,5,Sneezing,Chronic Illness,Observation,31.66,OWN0118,2022-04-28
+PET0119,Dog,Bulldog,14,Diarrhea,Chronic Illness,Surgery,9.73,OWN0119,2022-04-29
+PET0120,Cat,Persian,13,Diarrhea,Chronic Illness,Observation,25.75,OWN0120,2022-04-30
+PET0121,Cat,Siamese,2,Vomiting,Critical,Observation,9.81,OWN0121,2022-05-01
+PET0122,Rabbit,Holland Lop,4,Sneezing,Critical,Therapy,28.69,OWN0122,2022-05-02
+PET0123,Hamster,Winter White,12,Vomiting,Critical,None,35.01,OWN0123,2022-05-03
+PET0124,Bird,Finch,6,Sneezing,Healthy,Therapy,5.51,OWN0124,2022-05-04
+PET0125,Dog,Poodle,10,Vomiting,Minor Illness,Therapy,34.73,OWN0125,2022-05-05
+PET0126,Rabbit,Netherland Dwarf,11,Diarrhea,Recovering,Observation,23.95,OWN0126,2022-05-06
+PET0127,Hamster,Chinese,7,Diarrhea,Healthy,Therapy,5.52,OWN0127,2022-05-07
+PET0128,Rabbit,Lionhead,11,Coughing,Minor Illness,None,17.39,OWN0128,2022-05-08
+PET0129,Hamster,Winter White,5,Lethargy,Minor Illness,Therapy,6.85,OWN0129,2022-05-09
+PET0130,Hamster,Dwarf Campbell,9,Vomiting,Chronic Illness,None,28.16,OWN0130,2022-05-10
+PET0131,Bird,Canary,3,Coughing,Chronic Illness,Therapy,30.48,OWN0131,2022-05-11
+PET0132,Hamster,Winter White,1,Lethargy,Healthy,None,4.68,OWN0132,2022-05-12
+PET0133,Rabbit,Flemish Giant,4,Vomiting,Chronic Illness,Therapy,20.49,OWN0133,2022-05-13
+PET0134,Hamster,Winter White,9,Sneezing,Minor Illness,Therapy,32.68,OWN0134,2022-05-14
+PET0135,Bird,Parakeet,4,Lethargy,Chronic Illness,Surgery,37.48,OWN0135,2022-05-15
+PET0136,Bird,Cockatiel,2,Diarrhea,Critical,None,20.78,OWN0136,2022-05-16
+PET0137,Rabbit,Mini Rex,10,Coughing,Chronic Illness,None,38.04,OWN0137,2022-05-17
+PET0138,Cat,Siamese,14,Lethargy,Minor Illness,None,21.66,OWN0138,2022-05-18
+PET0139,Cat,Persian,14,Lethargy,Healthy,Medication,16.07,OWN0139,2022-05-19
+PET0140,Hamster,Winter White,5,Diarrhea,Recovering,Therapy,34.0,OWN0140,2022-05-20
+PET0141,Dog,Terrier,3,Vomiting,Chronic Illness,None,19.97,OWN0141,2022-05-21
+PET0142,Hamster,Roborovski,13,Sneezing,Minor Illness,Medication,19.14,OWN0142,2022-05-22
+PET0143,Rabbit,Netherland Dwarf,12,Diarrhea,Recovering,Surgery,19.87,OWN0143,2022-05-23
+PET0144,Rabbit,Lionhead,13,Sneezing,Recovering,None,33.95,OWN0144,2022-05-24
+PET0145,Rabbit,Netherland Dwarf,9,Vomiting,Critical,None,33.36,OWN0145,2022-05-25
+PET0146,Rabbit,Lionhead,4,Lethargy,Recovering,Medication,16.44,OWN0146,2022-05-26
+PET0147,Rabbit,Mini Rex,6,Sneezing,Minor Illness,Therapy,13.67,OWN0147,2022-05-27
+PET0148,Bird,Cockatiel,2,Coughing,Minor Illness,Surgery,19.93,OWN0148,2022-05-28
+PET0149,Cat,Siamese,6,Coughing,Chronic Illness,None,23.12,OWN0149,2022-05-29
+PET0150,Rabbit,Lionhead,3,Diarrhea,Chronic Illness,Therapy,9.91,OWN0150,2022-05-30
+PET0151,Dog,Bulldog,12,Vomiting,Chronic Illness,Surgery,31.86,OWN0151,2022-05-31
+PET0152,Dog,Labrador,12,Diarrhea,Recovering,Observation,19.72,OWN0152,2022-06-01
+PET0153,Dog,Poodle,9,Diarrhea,Recovering,Observation,13.69,OWN0153,2022-06-02
+PET0154,Dog,Poodle,11,Diarrhea,Critical,Surgery,4.72,OWN0154,2022-06-03
+PET0155,Bird,Parrot,2,Coughing,Chronic Illness,Medication,9.93,OWN0155,2022-06-04
+PET0156,Dog,Terrier,12,Coughing,Healthy,Surgery,38.0,OWN0156,2022-06-05
+PET0157,Rabbit,Lionhead,12,Diarrhea,Critical,Surgery,12.55,OWN0157,2022-06-06
+PET0158,Hamster,Winter White,9,Coughing,Healthy,Medication,7.17,OWN0158,2022-06-07
+PET0159,Dog,Labrador,5,Vomiting,Recovering,Medication,18.7,OWN0159,2022-06-08
+PET0160,Bird,Cockatiel,8,Diarrhea,Critical,Therapy,12.63,OWN0160,2022-06-09
+PET0161,Bird,Canary,2,Coughing,Critical,Therapy,1.89,OWN0161,2022-06-10
+PET0162,Dog,Bulldog,6,Sneezing,Minor Illness,Medication,13.26,OWN0162,2022-06-11
+PET0163,Hamster,Roborovski,3,Diarrhea,Recovering,Observation,21.99,OWN0163,2022-06-12
+PET0164,Dog,Bulldog,12,Diarrhea,Recovering,Observation,22.29,OWN0164,2022-06-13
+PET0165,Bird,Cockatiel,12,Vomiting,Critical,Surgery,14.58,OWN0165,2022-06-14
+PET0166,Cat,Maine Coon,14,Lethargy,Recovering,None,18.17,OWN0166,2022-06-15
+PET0167,Rabbit,Mini Rex,10,Lethargy,Critical,Surgery,38.64,OWN0167,2022-06-16
+PET0168,Bird,Canary,5,Vomiting,Minor Illness,Surgery,15.41,OWN0168,2022-06-17
+PET0169,Dog,Labrador,12,Vomiting,Critical,None,10.7,OWN0169,2022-06-18
+PET0170,Rabbit,Lionhead,8,Vomiting,Recovering,Medication,10.12,OWN0170,2022-06-19
+PET0171,Dog,Beagle,10,Lethargy,Recovering,Observation,18.58,OWN0171,2022-06-20
+PET0172,Dog,Beagle,14,Vomiting,Critical,Surgery,30.5,OWN0172,2022-06-21
+PET0173,Cat,Maine Coon,1,Coughing,Critical,None,8.64,OWN0173,2022-06-22
+PET0174,Rabbit,Mini Rex,5,Diarrhea,Critical,Therapy,28.52,OWN0174,2022-06-23
+PET0175,Rabbit,Netherland Dwarf,3,Diarrhea,Chronic Illness,Surgery,1.34,OWN0175,2022-06-24
+PET0176,Cat,Bengal,4,Sneezing,Recovering,Observation,17.05,OWN0176,2022-06-25
+PET0177,Bird,Canary,2,Sneezing,Recovering,Medication,31.15,OWN0177,2022-06-26
+PET0178,Dog,Terrier,9,Diarrhea,Chronic Illness,Surgery,13.88,OWN0178,2022-06-27
+PET0179,Hamster,Winter White,3,Coughing,Critical,Surgery,22.77,OWN0179,2022-06-28
+PET0180,Dog,Bulldog,2,Lethargy,Minor Illness,None,8.6,OWN0180,2022-06-29
+PET0181,Dog,Beagle,10,Lethargy,Critical,Therapy,29.81,OWN0181,2022-06-30
+PET0182,Bird,Cockatiel,11,Coughing,Critical,Therapy,2.57,OWN0182,2022-07-01
+PET0183,Dog,Poodle,9,Lethargy,Chronic Illness,Medication,34.18,OWN0183,2022-07-02
+PET0184,Cat,Siamese,7,Vomiting,Recovering,Observation,8.33,OWN0184,2022-07-03
+PET0185,Cat,Siamese,6,Diarrhea,Critical,Medication,35.04,OWN0185,2022-07-04
+PET0186,Rabbit,Holland Lop,1,Diarrhea,Recovering,Surgery,14.42,OWN0186,2022-07-05
+PET0187,Hamster,Dwarf Campbell,5,Coughing,Healthy,Surgery,29.05,OWN0187,2022-07-06
+PET0188,Dog,Bulldog,12,Lethargy,Recovering,Therapy,13.11,OWN0188,2022-07-07
+PET0189,Dog,Terrier,11,Sneezing,Minor Illness,Observation,36.28,OWN0189,2022-07-08
+PET0190,Bird,Finch,14,Sneezing,Minor Illness,None,5.5,OWN0190,2022-07-09
+PET0191,Cat,Maine Coon,11,Lethargy,Critical,Observation,7.55,OWN0191,2022-07-10
+PET0192,Hamster,Dwarf Campbell,3,Sneezing,Recovering,Surgery,19.97,OWN0192,2022-07-11
+PET0193,Rabbit,Holland Lop,1,Coughing,Critical,None,3.74,OWN0193,2022-07-12
+PET0194,Cat,Persian,4,Coughing,Chronic Illness,Observation,8.24,OWN0194,2022-07-13
+PET0195,Rabbit,Flemish Giant,13,Lethargy,Minor Illness,Observation,37.78,OWN0195,2022-07-14
+PET0196,Bird,Parakeet,2,Sneezing,Critical,None,39.07,OWN0196,2022-07-15
+PET0197,Bird,Cockatiel,2,Coughing,Chronic Illness,Surgery,15.36,OWN0197,2022-07-16
+PET0198,Dog,Terrier,3,Coughing,Critical,Observation,36.97,OWN0198,2022-07-17
+PET0199,Hamster,Chinese,8,Vomiting,Recovering,None,22.02,OWN0199,2022-07-18
+PET0200,Rabbit,Flemish Giant,8,Vomiting,Recovering,Surgery,11.15,OWN0200,2022-07-19
+PET0201,Cat,Bengal,12,Coughing,Recovering,None,28.24,OWN0201,2022-07-20
+PET0202,Bird,Canary,7,Lethargy,Recovering,None,26.53,OWN0202,2022-07-21
+PET0203,Dog,Bulldog,6,Diarrhea,Healthy,Observation,39.57,OWN0203,2022-07-22
+PET0204,Dog,Poodle,9,Diarrhea,Chronic Illness,Surgery,10.97,OWN0204,2022-07-23
+PET0205,Rabbit,Holland Lop,4,Coughing,Chronic Illness,Observation,27.05,OWN0205,2022-07-24
+PET0206,Bird,Parakeet,12,Coughing,Recovering,Medication,2.55,OWN0206,2022-07-25
+PET0207,Hamster,Syrian,1,Coughing,Healthy,Medication,4.99,OWN0207,2022-07-26
+PET0208,Bird,Canary,8,Lethargy,Recovering,Surgery,0.65,OWN0208,2022-07-27
+PET0209,Rabbit,Holland Lop,7,Vomiting,Healthy,None,39.98,OWN0209,2022-07-28
+PET0210,Rabbit,Netherland Dwarf,7,Coughing,Recovering,Observation,32.19,OWN0210,2022-07-29
+PET0211,Bird,Finch,3,Coughing,Minor Illness,Observation,31.58,OWN0211,2022-07-30
+PET0212,Rabbit,Netherland Dwarf,4,Sneezing,Minor Illness,Surgery,20.63,OWN0212,2022-07-31
+PET0213,Bird,Canary,10,Lethargy,Critical,Surgery,12.35,OWN0213,2022-08-01
+PET0214,Cat,Sphynx,9,Coughing,Recovering,Medication,6.47,OWN0214,2022-08-02
+PET0215,Bird,Parakeet,6,Sneezing,Chronic Illness,Therapy,11.74,OWN0215,2022-08-03
+PET0216,Bird,Parakeet,5,Diarrhea,Critical,Surgery,15.35,OWN0216,2022-08-04
+PET0217,Rabbit,Lionhead,3,Coughing,Minor Illness,Therapy,30.37,OWN0217,2022-08-05
+PET0218,Rabbit,Lionhead,9,Coughing,Recovering,Surgery,21.82,OWN0218,2022-08-06
+PET0219,Dog,Bulldog,5,Sneezing,Critical,None,3.56,OWN0219,2022-08-07
+PET0220,Dog,Terrier,5,Lethargy,Recovering,None,1.21,OWN0220,2022-08-08
+PET0221,Cat,Bengal,14,Coughing,Minor Illness,Medication,4.54,OWN0221,2022-08-09
+PET0222,Dog,Terrier,4,Diarrhea,Critical,Medication,16.71,OWN0222,2022-08-10
+PET0223,Bird,Finch,14,Coughing,Minor Illness,Therapy,37.36,OWN0223,2022-08-11
+PET0224,Rabbit,Holland Lop,4,Diarrhea,Healthy,Surgery,25.68,OWN0224,2022-08-12
+PET0225,Dog,Poodle,12,Vomiting,Minor Illness,Observation,32.17,OWN0225,2022-08-13
+PET0226,Dog,Poodle,1,Vomiting,Recovering,Medication,18.92,OWN0226,2022-08-14
+PET0227,Cat,Persian,7,Diarrhea,Chronic Illness,Observation,14.79,OWN0227,2022-08-15
+PET0228,Cat,Persian,9,Lethargy,Minor Illness,Observation,4.78,OWN0228,2022-08-16
+PET0229,Bird,Canary,3,Coughing,Chronic Illness,Surgery,35.1,OWN0229,2022-08-17
+PET0230,Rabbit,Netherland Dwarf,12,Coughing,Healthy,Therapy,31.43,OWN0230,2022-08-18
+PET0231,Cat,Sphynx,13,Vomiting,Critical,Surgery,7.14,OWN0231,2022-08-19
+PET0232,Dog,Bulldog,2,Diarrhea,Critical,Medication,20.73,OWN0232,2022-08-20
+PET0233,Rabbit,Holland Lop,3,Coughing,Chronic Illness,Observation,19.75,OWN0233,2022-08-21
+PET0234,Rabbit,Lionhead,1,Coughing,Critical,Surgery,25.19,OWN0234,2022-08-22
+PET0235,Dog,Terrier,6,Lethargy,Minor Illness,Surgery,37.87,OWN0235,2022-08-23
+PET0236,Cat,Siamese,11,Sneezing,Chronic Illness,Surgery,23.4,OWN0236,2022-08-24
+PET0237,Dog,Terrier,11,Vomiting,Recovering,Medication,21.84,OWN0237,2022-08-25
+PET0238,Rabbit,Mini Rex,7,Vomiting,Minor Illness,Therapy,2.49,OWN0238,2022-08-26
+PET0239,Hamster,Roborovski,11,Sneezing,Minor Illness,Surgery,2.98,OWN0239,2022-08-27
+PET0240,Hamster,Chinese,11,Coughing,Minor Illness,Medication,7.9,OWN0240,2022-08-28
+PET0241,Bird,Canary,2,Lethargy,Recovering,Observation,1.78,OWN0241,2022-08-29
+PET0242,Dog,Bulldog,8,Lethargy,Healthy,None,29.86,OWN0242,2022-08-30
+PET0243,Dog,Poodle,14,Vomiting,Critical,Medication,29.07,OWN0243,2022-08-31
+PET0244,Bird,Finch,6,Lethargy,Chronic Illness,None,5.87,OWN0244,2022-09-01
+PET0245,Bird,Finch,14,Sneezing,Healthy,Surgery,33.53,OWN0245,2022-09-02
+PET0246,Bird,Parrot,4,Coughing,Chronic Illness,Surgery,6.61,OWN0246,2022-09-03
+PET0247,Rabbit,Flemish Giant,5,Sneezing,Critical,Medication,12.4,OWN0247,2022-09-04
+PET0248,Dog,Bulldog,8,Diarrhea,Recovering,None,10.33,OWN0248,2022-09-05
+PET0249,Rabbit,Mini Rex,14,Vomiting,Minor Illness,Surgery,15.21,OWN0249,2022-09-06
+PET0250,Bird,Cockatiel,3,Lethargy,Minor Illness,Observation,10.56,OWN0250,2022-09-07
+PET0251,Dog,Terrier,3,Diarrhea,Recovering,Therapy,19.81,OWN0251,2022-09-08
+PET0252,Rabbit,Lionhead,14,Lethargy,Healthy,Therapy,16.59,OWN0252,2022-09-09
+PET0253,Rabbit,Flemish Giant,14,Coughing,Healthy,Surgery,39.47,OWN0253,2022-09-10
+PET0254,Bird,Finch,11,Coughing,Chronic Illness,None,2.71,OWN0254,2022-09-11
+PET0255,Dog,Labrador,4,Coughing,Recovering,Surgery,6.12,OWN0255,2022-09-12
+PET0256,Bird,Cockatiel,1,Lethargy,Healthy,None,2.59,OWN0256,2022-09-13
+PET0257,Dog,Poodle,9,Diarrhea,Recovering,Observation,25.22,OWN0257,2022-09-14
+PET0258,Hamster,Roborovski,8,Coughing,Critical,None,2.65,OWN0258,2022-09-15
+PET0259,Cat,Siamese,8,Diarrhea,Minor Illness,Surgery,33.54,OWN0259,2022-09-16
+PET0260,Cat,Persian,14,Lethargy,Minor Illness,Observation,20.72,OWN0260,2022-09-17
+PET0261,Cat,Bengal,10,Diarrhea,Minor Illness,Medication,21.32,OWN0261,2022-09-18
+PET0262,Bird,Canary,6,Lethargy,Recovering,Therapy,22.68,OWN0262,2022-09-19
+PET0263,Hamster,Winter White,7,Lethargy,Recovering,Surgery,7.25,OWN0263,2022-09-20
+PET0264,Dog,Poodle,6,Vomiting,Chronic Illness,Surgery,8.31,OWN0264,2022-09-21
+PET0265,Rabbit,Holland Lop,9,Lethargy,Minor Illness,Surgery,13.09,OWN0265,2022-09-22
+PET0266,Dog,Labrador,3,Lethargy,Chronic Illness,Observation,23.94,OWN0266,2022-09-23
+PET0267,Rabbit,Flemish Giant,14,Sneezing,Minor Illness,Medication,8.8,OWN0267,2022-09-24
+PET0268,Dog,Beagle,3,Coughing,Chronic Illness,None,5.1,OWN0268,2022-09-25
+PET0269,Hamster,Chinese,3,Vomiting,Chronic Illness,Medication,38.82,OWN0269,2022-09-26
+PET0270,Rabbit,Lionhead,10,Vomiting,Critical,Observation,1.37,OWN0270,2022-09-27
+PET0271,Bird,Parakeet,3,Vomiting,Chronic Illness,Surgery,32.21,OWN0271,2022-09-28
+PET0272,Dog,Labrador,9,Sneezing,Recovering,Therapy,31.63,OWN0272,2022-09-29
+PET0273,Dog,Labrador,12,Lethargy,Chronic Illness,Surgery,12.24,OWN0273,2022-09-30
+PET0274,Rabbit,Mini Rex,4,Coughing,Minor Illness,None,5.86,OWN0274,2022-10-01
+PET0275,Bird,Cockatiel,13,Diarrhea,Chronic Illness,Therapy,6.25,OWN0275,2022-10-02
+PET0276,Bird,Finch,7,Lethargy,Healthy,Surgery,28.05,OWN0276,2022-10-03
+PET0277,Hamster,Dwarf Campbell,14,Sneezing,Minor Illness,Therapy,25.89,OWN0277,2022-10-04
+PET0278,Bird,Parakeet,9,Lethargy,Healthy,Medication,31.42,OWN0278,2022-10-05
+PET0279,Bird,Finch,11,Lethargy,Minor Illness,Observation,37.53,OWN0279,2022-10-06
+PET0280,Bird,Cockatiel,12,Sneezing,Recovering,Surgery,27.83,OWN0280,2022-10-07
+PET0281,Cat,Bengal,7,Vomiting,Recovering,None,6.66,OWN0281,2022-10-08
+PET0282,Hamster,Winter White,9,Vomiting,Recovering,Medication,10.12,OWN0282,2022-10-09
+PET0283,Dog,Bulldog,12,Coughing,Healthy,Surgery,33.77,OWN0283,2022-10-10
+PET0284,Rabbit,Netherland Dwarf,3,Coughing,Critical,Medication,8.77,OWN0284,2022-10-11
+PET0285,Dog,Poodle,4,Vomiting,Minor Illness,None,3.36,OWN0285,2022-10-12
+PET0286,Hamster,Chinese,14,Diarrhea,Recovering,Surgery,28.28,OWN0286,2022-10-13
+PET0287,Rabbit,Holland Lop,8,Lethargy,Minor Illness,None,16.4,OWN0287,2022-10-14
+PET0288,Hamster,Syrian,6,Diarrhea,Healthy,Therapy,36.84,OWN0288,2022-10-15
+PET0289,Bird,Parakeet,5,Lethargy,Critical,None,26.19,OWN0289,2022-10-16
+PET0290,Rabbit,Flemish Giant,13,Vomiting,Healthy,Therapy,4.07,OWN0290,2022-10-17
+PET0291,Bird,Parakeet,4,Coughing,Minor Illness,Surgery,37.94,OWN0291,2022-10-18
+PET0292,Dog,Labrador,8,Coughing,Critical,Therapy,10.71,OWN0292,2022-10-19
+PET0293,Dog,Labrador,1,Diarrhea,Critical,Surgery,13.82,OWN0293,2022-10-20
+PET0294,Rabbit,Flemish Giant,14,Coughing,Healthy,Surgery,16.39,OWN0294,2022-10-21
+PET0295,Rabbit,Mini Rex,9,Vomiting,Recovering,Observation,2.52,OWN0295,2022-10-22
+PET0296,Hamster,Winter White,1,Diarrhea,Minor Illness,Surgery,20.11,OWN0296,2022-10-23
+PET0297,Hamster,Dwarf Campbell,8,Lethargy,Chronic Illness,Therapy,5.37,OWN0297,2022-10-24
+PET0298,Bird,Finch,4,Coughing,Chronic Illness,Observation,16.34,OWN0298,2022-10-25
+PET0299,Rabbit,Mini Rex,9,Sneezing,Healthy,Observation,14.35,OWN0299,2022-10-26
+PET0300,Dog,Labrador,14,Coughing,Minor Illness,Surgery,31.03,OWN0300,2022-10-27
+PET0301,Hamster,Winter White,11,Lethargy,Minor Illness,None,32.23,OWN0301,2022-10-28
+PET0302,Hamster,Dwarf Campbell,5,Diarrhea,Healthy,None,6.56,OWN0302,2022-10-29
+PET0303,Dog,Beagle,3,Lethargy,Minor Illness,Observation,14.98,OWN0303,2022-10-30
+PET0304,Hamster,Roborovski,9,Sneezing,Recovering,Surgery,15.25,OWN0304,2022-10-31
+PET0305,Bird,Cockatiel,11,Vomiting,Healthy,None,6.48,OWN0305,2022-11-01
+PET0306,Rabbit,Holland Lop,14,Coughing,Recovering,Surgery,32.04,OWN0306,2022-11-02
+PET0307,Dog,Labrador,14,Diarrhea,Minor Illness,Surgery,28.44,OWN0307,2022-11-03
+PET0308,Rabbit,Flemish Giant,9,Vomiting,Healthy,Observation,8.02,OWN0308,2022-11-04
+PET0309,Hamster,Syrian,4,Lethargy,Minor Illness,Observation,14.99,OWN0309,2022-11-05
+PET0310,Hamster,Roborovski,11,Diarrhea,Healthy,Medication,4.68,OWN0310,2022-11-06
+PET0311,Dog,Poodle,4,Vomiting,Minor Illness,None,25.31,OWN0311,2022-11-07
+PET0312,Bird,Parrot,12,Diarrhea,Recovering,None,5.29,OWN0312,2022-11-08
+PET0313,Cat,Siamese,8,Sneezing,Recovering,None,39.44,OWN0313,2022-11-09
+PET0314,Dog,Bulldog,2,Sneezing,Minor Illness,Therapy,31.34,OWN0314,2022-11-10
+PET0315,Cat,Siamese,9,Coughing,Healthy,Surgery,15.91,OWN0315,2022-11-11
+PET0316,Cat,Bengal,13,Coughing,Chronic Illness,Observation,23.35,OWN0316,2022-11-12
+PET0317,Bird,Parakeet,14,Sneezing,Recovering,None,36.5,OWN0317,2022-11-13
+PET0318,Cat,Siamese,6,Diarrhea,Recovering,Medication,22.39,OWN0318,2022-11-14
+PET0319,Cat,Persian,9,Sneezing,Chronic Illness,None,7.39,OWN0319,2022-11-15
+PET0320,Bird,Canary,8,Coughing,Minor Illness,Surgery,15.46,OWN0320,2022-11-16
+PET0321,Cat,Bengal,7,Sneezing,Healthy,Surgery,33.8,OWN0321,2022-11-17
+PET0322,Cat,Siamese,13,Sneezing,Minor Illness,Observation,25.95,OWN0322,2022-11-18
+PET0323,Cat,Persian,14,Diarrhea,Critical,Therapy,26.2,OWN0323,2022-11-19
+PET0324,Dog,Labrador,1,Vomiting,Recovering,Observation,34.74,OWN0324,2022-11-20
+PET0325,Dog,Labrador,14,Coughing,Critical,None,35.81,OWN0325,2022-11-21
+PET0326,Dog,Labrador,12,Diarrhea,Recovering,Medication,36.83,OWN0326,2022-11-22
+PET0327,Bird,Cockatiel,3,Sneezing,Recovering,Observation,4.25,OWN0327,2022-11-23
+PET0328,Hamster,Syrian,11,Sneezing,Critical,Therapy,21.99,OWN0328,2022-11-24
+PET0329,Cat,Sphynx,14,Vomiting,Critical,Observation,29.75,OWN0329,2022-11-25
+PET0330,Cat,Bengal,2,Coughing,Minor Illness,Surgery,30.4,OWN0330,2022-11-26
+PET0331,Bird,Canary,5,Coughing,Critical,None,24.47,OWN0331,2022-11-27
+PET0332,Cat,Persian,5,Lethargy,Minor Illness,None,7.09,OWN0332,2022-11-28
+PET0333,Dog,Beagle,5,Coughing,Minor Illness,None,32.0,OWN0333,2022-11-29
+PET0334,Hamster,Dwarf Campbell,4,Vomiting,Minor Illness,None,28.94,OWN0334,2022-11-30
+PET0335,Rabbit,Netherland Dwarf,5,Lethargy,Recovering,None,3.9,OWN0335,2022-12-01
+PET0336,Cat,Persian,3,Lethargy,Recovering,None,18.82,OWN0336,2022-12-02
+PET0337,Dog,Beagle,12,Sneezing,Critical,Medication,7.37,OWN0337,2022-12-03
+PET0338,Rabbit,Flemish Giant,1,Sneezing,Recovering,Therapy,13.83,OWN0338,2022-12-04
+PET0339,Hamster,Syrian,5,Coughing,Critical,None,1.21,OWN0339,2022-12-05
+PET0340,Rabbit,Lionhead,13,Lethargy,Recovering,Therapy,16.31,OWN0340,2022-12-06
+PET0341,Dog,Terrier,9,Sneezing,Healthy,None,22.22,OWN0341,2022-12-07
+PET0342,Rabbit,Lionhead,13,Vomiting,Healthy,Observation,24.97,OWN0342,2022-12-08
+PET0343,Bird,Finch,9,Sneezing,Critical,None,26.71,OWN0343,2022-12-09
+PET0344,Rabbit,Holland Lop,4,Sneezing,Recovering,Surgery,33.53,OWN0344,2022-12-10
+PET0345,Cat,Siamese,3,Lethargy,Recovering,Medication,9.01,OWN0345,2022-12-11
+PET0346,Cat,Siamese,1,Lethargy,Minor Illness,Observation,5.26,OWN0346,2022-12-12
+PET0347,Bird,Canary,2,Diarrhea,Chronic Illness,Observation,34.14,OWN0347,2022-12-13
+PET0348,Dog,Bulldog,8,Vomiting,Critical,Surgery,6.69,OWN0348,2022-12-14
+PET0349,Cat,Persian,1,Lethargy,Chronic Illness,None,39.0,OWN0349,2022-12-15
+PET0350,Hamster,Chinese,8,Coughing,Chronic Illness,Medication,33.78,OWN0350,2022-12-16
+PET0351,Cat,Bengal,13,Vomiting,Critical,Observation,20.28,OWN0351,2022-12-17
+PET0352,Cat,Maine Coon,7,Vomiting,Recovering,Medication,39.27,OWN0352,2022-12-18
+PET0353,Dog,Poodle,8,Lethargy,Critical,Observation,4.35,OWN0353,2022-12-19
+PET0354,Rabbit,Flemish Giant,12,Vomiting,Chronic Illness,None,12.47,OWN0354,2022-12-20
+PET0355,Cat,Bengal,6,Lethargy,Recovering,Observation,25.71,OWN0355,2022-12-21
+PET0356,Bird,Canary,12,Sneezing,Healthy,Observation,14.33,OWN0356,2022-12-22
+PET0357,Rabbit,Netherland Dwarf,14,Diarrhea,Critical,Therapy,37.17,OWN0357,2022-12-23
+PET0358,Hamster,Roborovski,9,Sneezing,Critical,None,3.09,OWN0358,2022-12-24
+PET0359,Dog,Labrador,3,Lethargy,Recovering,Surgery,22.2,OWN0359,2022-12-25
+PET0360,Hamster,Chinese,10,Lethargy,Healthy,Surgery,23.84,OWN0360,2022-12-26
+PET0361,Rabbit,Netherland Dwarf,4,Sneezing,Healthy,None,26.28,OWN0361,2022-12-27
+PET0362,Rabbit,Lionhead,13,Coughing,Recovering,Surgery,10.6,OWN0362,2022-12-28
+PET0363,Rabbit,Netherland Dwarf,6,Coughing,Minor Illness,None,14.9,OWN0363,2022-12-29
+PET0364,Hamster,Chinese,8,Coughing,Critical,Surgery,33.83,OWN0364,2022-12-30
+PET0365,Rabbit,Flemish Giant,5,Lethargy,Critical,Therapy,8.2,OWN0365,2022-12-31
+PET0366,Hamster,Winter White,3,Vomiting,Chronic Illness,Surgery,33.16,OWN0366,2023-01-01
+PET0367,Rabbit,Holland Lop,6,Lethargy,Recovering,Observation,22.72,OWN0367,2023-01-02
+PET0368,Bird,Cockatiel,4,Vomiting,Chronic Illness,None,30.61,OWN0368,2023-01-03
+PET0369,Rabbit,Lionhead,9,Sneezing,Chronic Illness,Medication,28.69,OWN0369,2023-01-04
+PET0370,Hamster,Dwarf Campbell,13,Diarrhea,Healthy,Medication,8.7,OWN0370,2023-01-05
+PET0371,Cat,Maine Coon,3,Vomiting,Critical,None,22.97,OWN0371,2023-01-06
+PET0372,Rabbit,Flemish Giant,4,Coughing,Chronic Illness,Therapy,34.78,OWN0372,2023-01-07
+PET0373,Cat,Sphynx,7,Lethargy,Healthy,Surgery,17.57,OWN0373,2023-01-08
+PET0374,Bird,Cockatiel,7,Sneezing,Recovering,Therapy,38.68,OWN0374,2023-01-09
+PET0375,Dog,Terrier,12,Coughing,Chronic Illness,Medication,18.36,OWN0375,2023-01-10
+PET0376,Bird,Finch,12,Sneezing,Critical,None,6.14,OWN0376,2023-01-11
+PET0377,Rabbit,Flemish Giant,4,Diarrhea,Chronic Illness,None,15.88,OWN0377,2023-01-12
+PET0378,Cat,Persian,6,Lethargy,Recovering,Therapy,38.09,OWN0378,2023-01-13
+PET0379,Cat,Persian,12,Lethargy,Chronic Illness,Therapy,13.13,OWN0379,2023-01-14
+PET0380,Hamster,Roborovski,13,Diarrhea,Critical,Surgery,34.79,OWN0380,2023-01-15
+PET0381,Cat,Sphynx,3,Lethargy,Healthy,Observation,35.31,OWN0381,2023-01-16
+PET0382,Hamster,Syrian,6,Vomiting,Critical,Observation,14.33,OWN0382,2023-01-17
+PET0383,Dog,Poodle,12,Sneezing,Healthy,Surgery,3.79,OWN0383,2023-01-18
+PET0384,Rabbit,Lionhead,2,Coughing,Minor Illness,Observation,29.12,OWN0384,2023-01-19
+PET0385,Hamster,Chinese,8,Diarrhea,Critical,Medication,12.8,OWN0385,2023-01-20
+PET0386,Dog,Beagle,2,Vomiting,Critical,Observation,31.43,OWN0386,2023-01-21
+PET0387,Cat,Maine Coon,11,Coughing,Recovering,Surgery,17.98,OWN0387,2023-01-22
+PET0388,Cat,Maine Coon,7,Coughing,Chronic Illness,Observation,19.67,OWN0388,2023-01-23
+PET0389,Dog,Terrier,9,Diarrhea,Healthy,None,31.23,OWN0389,2023-01-24
+PET0390,Cat,Sphynx,1,Vomiting,Healthy,Therapy,15.6,OWN0390,2023-01-25
+PET0391,Dog,Labrador,8,Coughing,Recovering,Medication,18.0,OWN0391,2023-01-26
+PET0392,Hamster,Chinese,7,Coughing,Recovering,None,15.36,OWN0392,2023-01-27
+PET0393,Hamster,Syrian,6,Vomiting,Chronic Illness,None,15.01,OWN0393,2023-01-28
+PET0394,Dog,Terrier,6,Lethargy,Chronic Illness,Surgery,21.27,OWN0394,2023-01-29
+PET0395,Hamster,Dwarf Campbell,6,Coughing,Critical,Therapy,32.45,OWN0395,2023-01-30
+PET0396,Hamster,Winter White,9,Sneezing,Minor Illness,Therapy,14.79,OWN0396,2023-01-31
+PET0397,Hamster,Chinese,2,Vomiting,Chronic Illness,Medication,21.21,OWN0397,2023-02-01
+PET0398,Bird,Cockatiel,1,Coughing,Recovering,Surgery,26.99,OWN0398,2023-02-02
+PET0399,Rabbit,Flemish Giant,13,Diarrhea,Chronic Illness,Medication,11.14,OWN0399,2023-02-03
+PET0400,Cat,Bengal,12,Sneezing,Healthy,Observation,11.46,OWN0400,2023-02-04
+PET0401,Bird,Parakeet,6,Coughing,Minor Illness,None,37.37,OWN0401,2023-02-05
+PET0402,Hamster,Chinese,10,Sneezing,Critical,Medication,29.08,OWN0402,2023-02-06
+PET0403,Dog,Bulldog,11,Sneezing,Healthy,None,23.3,OWN0403,2023-02-07
+PET0404,Hamster,Dwarf Campbell,8,Lethargy,Healthy,Surgery,26.08,OWN0404,2023-02-08
+PET0405,Rabbit,Holland Lop,3,Sneezing,Minor Illness,Observation,1.66,OWN0405,2023-02-09
+PET0406,Hamster,Roborovski,12,Lethargy,Critical,Surgery,24.92,OWN0406,2023-02-10
+PET0407,Dog,Labrador,10,Vomiting,Recovering,Observation,20.63,OWN0407,2023-02-11
+PET0408,Rabbit,Flemish Giant,1,Lethargy,Critical,Observation,22.06,OWN0408,2023-02-12
+PET0409,Hamster,Dwarf Campbell,9,Diarrhea,Chronic Illness,None,14.7,OWN0409,2023-02-13
+PET0410,Rabbit,Mini Rex,13,Coughing,Healthy,Surgery,3.72,OWN0410,2023-02-14
+PET0411,Cat,Persian,13,Vomiting,Chronic Illness,Surgery,8.14,OWN0411,2023-02-15
+PET0412,Cat,Bengal,1,Vomiting,Recovering,Medication,38.05,OWN0412,2023-02-16
+PET0413,Hamster,Dwarf Campbell,3,Diarrhea,Chronic Illness,Surgery,16.64,OWN0413,2023-02-17
+PET0414,Rabbit,Netherland Dwarf,8,Lethargy,Critical,Medication,18.93,OWN0414,2023-02-18
+PET0415,Dog,Bulldog,14,Coughing,Chronic Illness,Therapy,2.58,OWN0415,2023-02-19
+PET0416,Hamster,Dwarf Campbell,3,Lethargy,Recovering,Therapy,1.98,OWN0416,2023-02-20
+PET0417,Cat,Maine Coon,13,Sneezing,Recovering,Therapy,28.83,OWN0417,2023-02-21
+PET0418,Cat,Maine Coon,4,Lethargy,Recovering,Surgery,21.75,OWN0418,2023-02-22
+PET0419,Hamster,Dwarf Campbell,8,Vomiting,Critical,Surgery,20.59,OWN0419,2023-02-23
+PET0420,Rabbit,Mini Rex,1,Coughing,Recovering,Medication,10.1,OWN0420,2023-02-24
+PET0421,Cat,Bengal,13,Lethargy,Healthy,Observation,29.92,OWN0421,2023-02-25
+PET0422,Rabbit,Lionhead,13,Coughing,Recovering,Medication,7.15,OWN0422,2023-02-26
+PET0423,Cat,Sphynx,6,Coughing,Chronic Illness,Therapy,8.0,OWN0423,2023-02-27
+PET0424,Cat,Persian,1,Sneezing,Chronic Illness,Medication,18.7,OWN0424,2023-02-28
+PET0425,Bird,Cockatiel,14,Sneezing,Chronic Illness,Observation,11.81,OWN0425,2023-03-01
+PET0426,Cat,Siamese,1,Vomiting,Critical,Surgery,10.27,OWN0426,2023-03-02
+PET0427,Dog,Poodle,14,Diarrhea,Chronic Illness,Medication,25.99,OWN0427,2023-03-03
+PET0428,Hamster,Dwarf Campbell,8,Coughing,Critical,Therapy,26.21,OWN0428,2023-03-04
+PET0429,Hamster,Chinese,11,Diarrhea,Critical,Therapy,33.07,OWN0429,2023-03-05
+PET0430,Rabbit,Netherland Dwarf,4,Vomiting,Recovering,Surgery,17.0,OWN0430,2023-03-06
+PET0431,Cat,Bengal,12,Coughing,Healthy,Medication,3.39,OWN0431,2023-03-07
+PET0432,Dog,Beagle,1,Coughing,Recovering,Observation,11.31,OWN0432,2023-03-08
+PET0433,Rabbit,Mini Rex,10,Diarrhea,Recovering,Surgery,39.21,OWN0433,2023-03-09
+PET0434,Bird,Cockatiel,7,Lethargy,Critical,Medication,24.05,OWN0434,2023-03-10
+PET0435,Rabbit,Mini Rex,5,Sneezing,Critical,None,28.53,OWN0435,2023-03-11
+PET0436,Rabbit,Holland Lop,5,Lethargy,Chronic Illness,Therapy,0.79,OWN0436,2023-03-12
+PET0437,Cat,Bengal,1,Diarrhea,Chronic Illness,Observation,20.97,OWN0437,2023-03-13
+PET0438,Bird,Cockatiel,14,Sneezing,Recovering,Observation,1.98,OWN0438,2023-03-14
+PET0439,Rabbit,Holland Lop,10,Lethargy,Minor Illness,Observation,22.98,OWN0439,2023-03-15
+PET0440,Dog,Bulldog,11,Sneezing,Minor Illness,Therapy,36.87,OWN0440,2023-03-16
+PET0441,Dog,Beagle,6,Coughing,Chronic Illness,Medication,38.75,OWN0441,2023-03-17
+PET0442,Hamster,Syrian,14,Lethargy,Minor Illness,Surgery,21.85,OWN0442,2023-03-18
+PET0443,Bird,Finch,9,Sneezing,Chronic Illness,Medication,18.6,OWN0443,2023-03-19
+PET0444,Bird,Parrot,9,Sneezing,Critical,Surgery,37.83,OWN0444,2023-03-20
+PET0445,Hamster,Syrian,8,Sneezing,Recovering,Observation,27.11,OWN0445,2023-03-21
+PET0446,Rabbit,Flemish Giant,5,Lethargy,Healthy,Medication,3.06,OWN0446,2023-03-22
+PET0447,Bird,Canary,1,Vomiting,Recovering,Observation,18.9,OWN0447,2023-03-23
+PET0448,Dog,Poodle,9,Lethargy,Chronic Illness,None,9.99,OWN0448,2023-03-24
+PET0449,Dog,Terrier,1,Diarrhea,Chronic Illness,Observation,19.06,OWN0449,2023-03-25
+PET0450,Cat,Sphynx,8,Lethargy,Recovering,Observation,18.49,OWN0450,2023-03-26
+PET0451,Bird,Parrot,5,Sneezing,Chronic Illness,Surgery,23.49,OWN0451,2023-03-27
+PET0452,Rabbit,Flemish Giant,3,Coughing,Minor Illness,None,14.59,OWN0452,2023-03-28
+PET0453,Hamster,Chinese,11,Lethargy,Minor Illness,Observation,6.99,OWN0453,2023-03-29
+PET0454,Hamster,Winter White,7,Lethargy,Chronic Illness,Observation,20.4,OWN0454,2023-03-30
+PET0455,Rabbit,Lionhead,7,Sneezing,Chronic Illness,None,33.29,OWN0455,2023-03-31
+PET0456,Cat,Persian,9,Coughing,Minor Illness,None,26.73,OWN0456,2023-04-01
+PET0457,Hamster,Roborovski,7,Coughing,Chronic Illness,Medication,13.87,OWN0457,2023-04-02
+PET0458,Bird,Canary,13,Diarrhea,Chronic Illness,Surgery,37.45,OWN0458,2023-04-03
+PET0459,Cat,Sphynx,11,Lethargy,Recovering,None,36.53,OWN0459,2023-04-04
+PET0460,Bird,Canary,14,Coughing,Healthy,None,8.77,OWN0460,2023-04-05
+PET0461,Dog,Bulldog,3,Coughing,Minor Illness,Therapy,2.06,OWN0461,2023-04-06
+PET0462,Cat,Siamese,11,Vomiting,Recovering,None,29.78,OWN0462,2023-04-07
+PET0463,Hamster,Syrian,13,Vomiting,Healthy,Surgery,33.19,OWN0463,2023-04-08
+PET0464,Cat,Sphynx,14,Coughing,Chronic Illness,Observation,38.73,OWN0464,2023-04-09
+PET0465,Cat,Bengal,13,Diarrhea,Chronic Illness,Observation,35.65,OWN0465,2023-04-10
+PET0466,Cat,Maine Coon,1,Coughing,Recovering,Observation,24.22,OWN0466,2023-04-11
+PET0467,Cat,Bengal,8,Sneezing,Chronic Illness,Observation,21.44,OWN0467,2023-04-12
+PET0468,Bird,Parrot,12,Lethargy,Critical,Therapy,1.6,OWN0468,2023-04-13
+PET0469,Dog,Labrador,3,Diarrhea,Recovering,None,10.24,OWN0469,2023-04-14
+PET0470,Rabbit,Flemish Giant,12,Sneezing,Healthy,Observation,18.65,OWN0470,2023-04-15
+PET0471,Cat,Bengal,8,Diarrhea,Recovering,Medication,25.33,OWN0471,2023-04-16
+PET0472,Hamster,Syrian,8,Sneezing,Minor Illness,Observation,22.51,OWN0472,2023-04-17
+PET0473,Cat,Maine Coon,13,Lethargy,Recovering,None,29.83,OWN0473,2023-04-18
+PET0474,Hamster,Winter White,5,Lethargy,Chronic Illness,Observation,11.55,OWN0474,2023-04-19
+PET0475,Bird,Cockatiel,13,Vomiting,Chronic Illness,Therapy,22.82,OWN0475,2023-04-20
+PET0476,Hamster,Chinese,12,Sneezing,Critical,Surgery,3.98,OWN0476,2023-04-21
+PET0477,Rabbit,Mini Rex,13,Vomiting,Critical,Surgery,16.84,OWN0477,2023-04-22
+PET0478,Dog,Labrador,1,Sneezing,Critical,None,30.13,OWN0478,2023-04-23
+PET0479,Hamster,Syrian,13,Vomiting,Healthy,Surgery,27.89,OWN0479,2023-04-24
+PET0480,Hamster,Chinese,10,Lethargy,Critical,Surgery,39.63,OWN0480,2023-04-25
+PET0481,Dog,Bulldog,7,Diarrhea,Healthy,Medication,11.48,OWN0481,2023-04-26
+PET0482,Rabbit,Flemish Giant,12,Vomiting,Critical,None,20.18,OWN0482,2023-04-27
+PET0483,Cat,Maine Coon,10,Sneezing,Healthy,None,13.52,OWN0483,2023-04-28
+PET0484,Hamster,Winter White,5,Sneezing,Recovering,Surgery,17.9,OWN0484,2023-04-29
+PET0485,Dog,Bulldog,8,Lethargy,Recovering,Surgery,34.35,OWN0485,2023-04-30
+PET0486,Bird,Canary,9,Sneezing,Chronic Illness,Surgery,27.53,OWN0486,2023-05-01
+PET0487,Dog,Beagle,11,Coughing,Healthy,Therapy,35.36,OWN0487,2023-05-02
+PET0488,Bird,Parrot,14,Diarrhea,Minor Illness,Observation,8.54,OWN0488,2023-05-03
+PET0489,Rabbit,Mini Rex,7,Vomiting,Chronic Illness,Therapy,35.0,OWN0489,2023-05-04
+PET0490,Cat,Bengal,14,Diarrhea,Recovering,None,2.86,OWN0490,2023-05-05
+PET0491,Dog,Beagle,13,Lethargy,Healthy,Medication,35.6,OWN0491,2023-05-06
+PET0492,Hamster,Winter White,7,Vomiting,Critical,Observation,13.5,OWN0492,2023-05-07
+PET0493,Rabbit,Holland Lop,1,Vomiting,Minor Illness,Medication,12.93,OWN0493,2023-05-08
+PET0494,Dog,Poodle,4,Coughing,Recovering,None,20.73,OWN0494,2023-05-09
+PET0495,Hamster,Winter White,2,Lethargy,Chronic Illness,None,37.66,OWN0495,2023-05-10
+PET0496,Dog,Terrier,2,Sneezing,Healthy,Medication,2.39,OWN0496,2023-05-11
+PET0497,Bird,Finch,2,Coughing,Minor Illness,Medication,14.41,OWN0497,2023-05-12
+PET0498,Dog,Terrier,4,Coughing,Healthy,Medication,34.33,OWN0498,2023-05-13
+PET0499,Dog,Labrador,14,Diarrhea,Critical,None,16.14,OWN0499,2023-05-14
+PET0500,Dog,Labrador,1,Diarrhea,Chronic Illness,Surgery,8.37,OWN0500,2023-05-15
+PET0501,Rabbit,Lionhead,4,Diarrhea,Healthy,Medication,17.28,OWN0501,2023-05-16
+PET0502,Dog,Bulldog,2,Coughing,Recovering,Observation,15.73,OWN0502,2023-05-17
+PET0503,Hamster,Dwarf Campbell,5,Sneezing,Chronic Illness,None,36.66,OWN0503,2023-05-18
+PET0504,Bird,Parakeet,3,Vomiting,Recovering,Therapy,30.6,OWN0504,2023-05-19
+PET0505,Bird,Cockatiel,12,Diarrhea,Healthy,Therapy,20.45,OWN0505,2023-05-20
+PET0506,Dog,Beagle,8,Sneezing,Chronic Illness,Observation,39.54,OWN0506,2023-05-21
+PET0507,Rabbit,Lionhead,4,Lethargy,Recovering,Surgery,18.88,OWN0507,2023-05-22
+PET0508,Rabbit,Lionhead,1,Diarrhea,Critical,Medication,2.8,OWN0508,2023-05-23
+PET0509,Hamster,Dwarf Campbell,1,Vomiting,Critical,None,10.86,OWN0509,2023-05-24
+PET0510,Dog,Labrador,12,Lethargy,Healthy,Medication,17.72,OWN0510,2023-05-25
+PET0511,Bird,Canary,10,Lethargy,Chronic Illness,None,6.7,OWN0511,2023-05-26
+PET0512,Rabbit,Mini Rex,3,Vomiting,Minor Illness,Therapy,37.93,OWN0512,2023-05-27
+PET0513,Dog,Labrador,9,Diarrhea,Chronic Illness,Medication,30.79,OWN0513,2023-05-28
+PET0514,Rabbit,Lionhead,7,Coughing,Critical,Observation,11.1,OWN0514,2023-05-29
+PET0515,Rabbit,Netherland Dwarf,2,Vomiting,Recovering,Surgery,23.84,OWN0515,2023-05-30
+PET0516,Bird,Parakeet,13,Vomiting,Minor Illness,Observation,29.0,OWN0516,2023-05-31
+PET0517,Cat,Bengal,9,Vomiting,Healthy,Surgery,37.68,OWN0517,2023-06-01
+PET0518,Hamster,Winter White,10,Lethargy,Minor Illness,Medication,35.32,OWN0518,2023-06-02
+PET0519,Hamster,Chinese,2,Sneezing,Healthy,Medication,20.85,OWN0519,2023-06-03
+PET0520,Bird,Canary,3,Coughing,Minor Illness,Surgery,31.1,OWN0520,2023-06-04
+PET0521,Rabbit,Netherland Dwarf,11,Diarrhea,Healthy,Therapy,22.7,OWN0521,2023-06-05
+PET0522,Dog,Bulldog,13,Diarrhea,Healthy,None,22.33,OWN0522,2023-06-06
+PET0523,Rabbit,Netherland Dwarf,10,Sneezing,Minor Illness,Observation,5.03,OWN0523,2023-06-07
+PET0524,Bird,Cockatiel,14,Vomiting,Minor Illness,Observation,5.48,OWN0524,2023-06-08
+PET0525,Hamster,Syrian,2,Coughing,Healthy,Observation,21.42,OWN0525,2023-06-09
+PET0526,Rabbit,Mini Rex,3,Diarrhea,Critical,Medication,11.12,OWN0526,2023-06-10
+PET0527,Hamster,Winter White,6,Diarrhea,Minor Illness,Observation,1.33,OWN0527,2023-06-11
+PET0528,Dog,Beagle,9,Vomiting,Chronic Illness,None,29.05,OWN0528,2023-06-12
+PET0529,Hamster,Syrian,9,Sneezing,Recovering,None,1.78,OWN0529,2023-06-13
+PET0530,Hamster,Dwarf Campbell,7,Coughing,Healthy,Surgery,24.01,OWN0530,2023-06-14
+PET0531,Cat,Maine Coon,12,Sneezing,Healthy,Medication,21.8,OWN0531,2023-06-15
+PET0532,Cat,Persian,3,Sneezing,Recovering,None,38.77,OWN0532,2023-06-16
+PET0533,Cat,Persian,4,Coughing,Critical,Therapy,19.63,OWN0533,2023-06-17
+PET0534,Hamster,Dwarf Campbell,6,Coughing,Recovering,Medication,3.01,OWN0534,2023-06-18
+PET0535,Bird,Parrot,11,Diarrhea,Minor Illness,Medication,22.29,OWN0535,2023-06-19
+PET0536,Hamster,Dwarf Campbell,5,Diarrhea,Recovering,None,33.72,OWN0536,2023-06-20
+PET0537,Bird,Parrot,2,Coughing,Healthy,Therapy,39.88,OWN0537,2023-06-21
+PET0538,Bird,Parakeet,13,Lethargy,Recovering,Surgery,17.5,OWN0538,2023-06-22
+PET0539,Cat,Maine Coon,6,Diarrhea,Chronic Illness,None,13.15,OWN0539,2023-06-23
+PET0540,Rabbit,Holland Lop,3,Lethargy,Minor Illness,Therapy,36.31,OWN0540,2023-06-24
+PET0541,Dog,Bulldog,14,Coughing,Recovering,Medication,8.05,OWN0541,2023-06-25
+PET0542,Cat,Siamese,8,Diarrhea,Healthy,Therapy,24.81,OWN0542,2023-06-26
+PET0543,Cat,Siamese,2,Sneezing,Minor Illness,Medication,16.53,OWN0543,2023-06-27
+PET0544,Rabbit,Lionhead,1,Coughing,Healthy,None,2.12,OWN0544,2023-06-28
+PET0545,Dog,Terrier,9,Vomiting,Critical,None,14.22,OWN0545,2023-06-29
+PET0546,Hamster,Winter White,14,Lethargy,Chronic Illness,Observation,10.98,OWN0546,2023-06-30
+PET0547,Hamster,Syrian,12,Coughing,Critical,Observation,27.6,OWN0547,2023-07-01
+PET0548,Cat,Persian,3,Coughing,Chronic Illness,Observation,37.98,OWN0548,2023-07-02
+PET0549,Dog,Bulldog,11,Diarrhea,Recovering,None,11.09,OWN0549,2023-07-03
+PET0550,Cat,Persian,1,Diarrhea,Minor Illness,Surgery,32.55,OWN0550,2023-07-04
+PET0551,Bird,Canary,7,Diarrhea,Recovering,None,2.69,OWN0551,2023-07-05
+PET0552,Cat,Siamese,13,Vomiting,Chronic Illness,Therapy,21.76,OWN0552,2023-07-06
+PET0553,Cat,Siamese,10,Diarrhea,Chronic Illness,None,3.29,OWN0553,2023-07-07
+PET0554,Hamster,Syrian,5,Coughing,Chronic Illness,None,37.39,OWN0554,2023-07-08
+PET0555,Hamster,Syrian,5,Diarrhea,Healthy,Medication,30.77,OWN0555,2023-07-09
+PET0556,Hamster,Winter White,14,Sneezing,Minor Illness,Medication,26.49,OWN0556,2023-07-10
+PET0557,Bird,Parrot,1,Diarrhea,Recovering,Medication,33.04,OWN0557,2023-07-11
+PET0558,Hamster,Winter White,9,Vomiting,Recovering,None,26.08,OWN0558,2023-07-12
+PET0559,Dog,Terrier,7,Sneezing,Critical,Surgery,38.77,OWN0559,2023-07-13
+PET0560,Rabbit,Holland Lop,8,Coughing,Chronic Illness,Therapy,28.7,OWN0560,2023-07-14
+PET0561,Dog,Poodle,9,Coughing,Chronic Illness,Therapy,37.02,OWN0561,2023-07-15
+PET0562,Dog,Bulldog,6,Lethargy,Chronic Illness,Surgery,20.93,OWN0562,2023-07-16
+PET0563,Hamster,Dwarf Campbell,12,Sneezing,Recovering,Surgery,5.12,OWN0563,2023-07-17
+PET0564,Rabbit,Mini Rex,5,Lethargy,Critical,Therapy,21.36,OWN0564,2023-07-18
+PET0565,Rabbit,Flemish Giant,6,Sneezing,Healthy,Observation,5.51,OWN0565,2023-07-19
+PET0566,Rabbit,Lionhead,11,Sneezing,Minor Illness,Medication,23.9,OWN0566,2023-07-20
+PET0567,Bird,Canary,2,Vomiting,Healthy,Medication,19.56,OWN0567,2023-07-21
+PET0568,Hamster,Dwarf Campbell,4,Lethargy,Recovering,Therapy,25.09,OWN0568,2023-07-22
+PET0569,Rabbit,Mini Rex,3,Vomiting,Chronic Illness,Surgery,0.9,OWN0569,2023-07-23
+PET0570,Bird,Parrot,13,Sneezing,Minor Illness,Observation,8.2,OWN0570,2023-07-24
+PET0571,Cat,Maine Coon,7,Coughing,Recovering,Therapy,19.91,OWN0571,2023-07-25
+PET0572,Cat,Sphynx,9,Sneezing,Recovering,Medication,38.04,OWN0572,2023-07-26
+PET0573,Bird,Finch,5,Vomiting,Recovering,None,15.65,OWN0573,2023-07-27
+PET0574,Bird,Parrot,6,Lethargy,Minor Illness,Surgery,17.26,OWN0574,2023-07-28
+PET0575,Hamster,Syrian,10,Lethargy,Minor Illness,None,28.73,OWN0575,2023-07-29
+PET0576,Hamster,Winter White,14,Vomiting,Critical,Therapy,24.35,OWN0576,2023-07-30
+PET0577,Cat,Siamese,12,Lethargy,Critical,Medication,12.31,OWN0577,2023-07-31
+PET0578,Rabbit,Flemish Giant,12,Diarrhea,Healthy,Observation,16.73,OWN0578,2023-08-01
+PET0579,Cat,Persian,2,Coughing,Minor Illness,None,9.1,OWN0579,2023-08-02
+PET0580,Rabbit,Mini Rex,3,Coughing,Minor Illness,Observation,38.66,OWN0580,2023-08-03
+PET0581,Rabbit,Lionhead,3,Coughing,Minor Illness,Medication,5.66,OWN0581,2023-08-04
+PET0582,Hamster,Chinese,12,Lethargy,Critical,None,15.19,OWN0582,2023-08-05
+PET0583,Dog,Terrier,12,Lethargy,Recovering,Observation,1.52,OWN0583,2023-08-06
+PET0584,Dog,Labrador,9,Sneezing,Chronic Illness,Observation,9.26,OWN0584,2023-08-07
+PET0585,Bird,Parrot,7,Sneezing,Critical,None,31.33,OWN0585,2023-08-08
+PET0586,Hamster,Syrian,8,Coughing,Minor Illness,Medication,8.45,OWN0586,2023-08-09
+PET0587,Rabbit,Holland Lop,11,Diarrhea,Critical,Observation,3.66,OWN0587,2023-08-10
+PET0588,Dog,Poodle,10,Sneezing,Healthy,Therapy,19.24,OWN0588,2023-08-11
+PET0589,Rabbit,Flemish Giant,11,Sneezing,Minor Illness,None,0.89,OWN0589,2023-08-12
+PET0590,Dog,Beagle,9,Lethargy,Healthy,Surgery,3.85,OWN0590,2023-08-13
+PET0591,Dog,Poodle,6,Diarrhea,Minor Illness,Surgery,32.4,OWN0591,2023-08-14
+PET0592,Dog,Poodle,4,Coughing,Critical,Medication,30.97,OWN0592,2023-08-15
+PET0593,Hamster,Dwarf Campbell,12,Sneezing,Recovering,Therapy,36.65,OWN0593,2023-08-16
+PET0594,Cat,Persian,1,Diarrhea,Chronic Illness,Observation,34.25,OWN0594,2023-08-17
+PET0595,Rabbit,Holland Lop,8,Diarrhea,Healthy,Surgery,27.49,OWN0595,2023-08-18
+PET0596,Hamster,Roborovski,7,Coughing,Critical,Medication,2.57,OWN0596,2023-08-19
+PET0597,Hamster,Winter White,2,Diarrhea,Recovering,Therapy,31.42,OWN0597,2023-08-20
+PET0598,Hamster,Dwarf Campbell,8,Diarrhea,Critical,Therapy,33.9,OWN0598,2023-08-21
+PET0599,Hamster,Dwarf Campbell,12,Diarrhea,Healthy,Medication,32.06,OWN0599,2023-08-22
+PET0600,Hamster,Chinese,5,Sneezing,Chronic Illness,Medication,20.58,OWN0600,2023-08-23
+PET0601,Bird,Cockatiel,7,Coughing,Critical,Observation,9.7,OWN0601,2023-08-24
+PET0602,Rabbit,Mini Rex,4,Diarrhea,Minor Illness,Medication,33.89,OWN0602,2023-08-25
+PET0603,Hamster,Dwarf Campbell,5,Diarrhea,Recovering,Observation,29.22,OWN0603,2023-08-26
+PET0604,Rabbit,Holland Lop,8,Sneezing,Critical,Observation,39.24,OWN0604,2023-08-27
+PET0605,Bird,Parakeet,1,Coughing,Recovering,None,6.65,OWN0605,2023-08-28
+PET0606,Bird,Cockatiel,1,Lethargy,Minor Illness,Therapy,9.41,OWN0606,2023-08-29
+PET0607,Rabbit,Netherland Dwarf,4,Sneezing,Chronic Illness,Therapy,8.87,OWN0607,2023-08-30
+PET0608,Dog,Terrier,3,Coughing,Chronic Illness,Therapy,31.81,OWN0608,2023-08-31
+PET0609,Cat,Bengal,13,Diarrhea,Minor Illness,None,7.88,OWN0609,2023-09-01
+PET0610,Dog,Bulldog,10,Coughing,Recovering,Observation,3.13,OWN0610,2023-09-02
+PET0611,Dog,Poodle,12,Coughing,Critical,Observation,39.94,OWN0611,2023-09-03
+PET0612,Dog,Beagle,2,Coughing,Minor Illness,Medication,1.48,OWN0612,2023-09-04
+PET0613,Hamster,Chinese,12,Lethargy,Healthy,None,33.49,OWN0613,2023-09-05
+PET0614,Bird,Finch,3,Coughing,Recovering,Medication,14.93,OWN0614,2023-09-06
+PET0615,Dog,Poodle,11,Lethargy,Chronic Illness,None,33.74,OWN0615,2023-09-07
+PET0616,Bird,Cockatiel,11,Diarrhea,Minor Illness,Medication,22.41,OWN0616,2023-09-08
+PET0617,Rabbit,Mini Rex,14,Lethargy,Chronic Illness,Surgery,36.11,OWN0617,2023-09-09
+PET0618,Cat,Maine Coon,11,Diarrhea,Recovering,Therapy,37.08,OWN0618,2023-09-10
+PET0619,Rabbit,Mini Rex,1,Diarrhea,Chronic Illness,Therapy,0.86,OWN0619,2023-09-11
+PET0620,Rabbit,Flemish Giant,1,Lethargy,Minor Illness,Observation,3.48,OWN0620,2023-09-12
+PET0621,Hamster,Syrian,6,Sneezing,Recovering,Surgery,10.39,OWN0621,2023-09-13
+PET0622,Cat,Bengal,5,Vomiting,Healthy,Therapy,26.94,OWN0622,2023-09-14
+PET0623,Rabbit,Lionhead,8,Coughing,Minor Illness,Observation,35.59,OWN0623,2023-09-15
+PET0624,Rabbit,Lionhead,2,Vomiting,Critical,Surgery,18.67,OWN0624,2023-09-16
+PET0625,Cat,Bengal,4,Coughing,Minor Illness,Therapy,24.48,OWN0625,2023-09-17
+PET0626,Cat,Sphynx,8,Coughing,Recovering,Medication,7.95,OWN0626,2023-09-18
+PET0627,Rabbit,Mini Rex,12,Diarrhea,Minor Illness,None,32.3,OWN0627,2023-09-19
+PET0628,Cat,Maine Coon,6,Coughing,Healthy,Surgery,38.71,OWN0628,2023-09-20
+PET0629,Rabbit,Netherland Dwarf,1,Coughing,Healthy,Observation,11.11,OWN0629,2023-09-21
+PET0630,Rabbit,Mini Rex,4,Lethargy,Critical,Surgery,20.05,OWN0630,2023-09-22
+PET0631,Hamster,Chinese,1,Vomiting,Chronic Illness,Observation,3.9,OWN0631,2023-09-23
+PET0632,Dog,Terrier,13,Lethargy,Recovering,Surgery,22.59,OWN0632,2023-09-24
+PET0633,Rabbit,Flemish Giant,2,Coughing,Recovering,Observation,20.36,OWN0633,2023-09-25
+PET0634,Bird,Finch,5,Diarrhea,Chronic Illness,Therapy,6.21,OWN0634,2023-09-26
+PET0635,Dog,Terrier,14,Lethargy,Healthy,Medication,17.96,OWN0635,2023-09-27
+PET0636,Dog,Bulldog,8,Lethargy,Healthy,Therapy,13.7,OWN0636,2023-09-28
+PET0637,Dog,Poodle,8,Sneezing,Minor Illness,Medication,21.11,OWN0637,2023-09-29
+PET0638,Hamster,Dwarf Campbell,11,Coughing,Critical,Therapy,23.63,OWN0638,2023-09-30
+PET0639,Rabbit,Flemish Giant,3,Diarrhea,Critical,Therapy,0.84,OWN0639,2023-10-01
+PET0640,Hamster,Dwarf Campbell,11,Lethargy,Critical,Surgery,30.56,OWN0640,2023-10-02
+PET0641,Rabbit,Netherland Dwarf,13,Lethargy,Minor Illness,None,28.66,OWN0641,2023-10-03
+PET0642,Hamster,Syrian,4,Diarrhea,Critical,Observation,14.97,OWN0642,2023-10-04
+PET0643,Hamster,Winter White,10,Coughing,Chronic Illness,Observation,2.59,OWN0643,2023-10-05
+PET0644,Bird,Parakeet,11,Sneezing,Minor Illness,Observation,30.32,OWN0644,2023-10-06
+PET0645,Hamster,Dwarf Campbell,14,Lethargy,Chronic Illness,Medication,38.23,OWN0645,2023-10-07
+PET0646,Cat,Siamese,6,Sneezing,Minor Illness,Observation,9.99,OWN0646,2023-10-08
+PET0647,Bird,Finch,11,Vomiting,Critical,Observation,13.28,OWN0647,2023-10-09
+PET0648,Hamster,Chinese,11,Coughing,Chronic Illness,Surgery,7.76,OWN0648,2023-10-10
+PET0649,Dog,Beagle,10,Vomiting,Chronic Illness,Therapy,23.29,OWN0649,2023-10-11
+PET0650,Cat,Sphynx,3,Vomiting,Chronic Illness,Observation,6.62,OWN0650,2023-10-12
+PET0651,Cat,Siamese,2,Vomiting,Minor Illness,None,14.57,OWN0651,2023-10-13
+PET0652,Cat,Persian,6,Coughing,Recovering,Observation,28.03,OWN0652,2023-10-14
+PET0653,Bird,Cockatiel,11,Coughing,Critical,Medication,22.62,OWN0653,2023-10-15
+PET0654,Hamster,Dwarf Campbell,13,Diarrhea,Chronic Illness,Medication,15.77,OWN0654,2023-10-16
+PET0655,Hamster,Chinese,5,Sneezing,Recovering,Medication,17.1,OWN0655,2023-10-17
+PET0656,Dog,Bulldog,14,Sneezing,Critical,Observation,22.7,OWN0656,2023-10-18
+PET0657,Dog,Bulldog,10,Diarrhea,Critical,Surgery,0.73,OWN0657,2023-10-19
+PET0658,Cat,Siamese,5,Diarrhea,Chronic Illness,None,3.6,OWN0658,2023-10-20
+PET0659,Dog,Bulldog,10,Vomiting,Chronic Illness,Observation,35.31,OWN0659,2023-10-21
+PET0660,Bird,Cockatiel,13,Diarrhea,Minor Illness,Surgery,3.58,OWN0660,2023-10-22
+PET0661,Hamster,Dwarf Campbell,5,Lethargy,Recovering,Surgery,28.42,OWN0661,2023-10-23
+PET0662,Cat,Maine Coon,10,Sneezing,Recovering,Observation,36.84,OWN0662,2023-10-24
+PET0663,Dog,Terrier,12,Diarrhea,Chronic Illness,Observation,11.19,OWN0663,2023-10-25
+PET0664,Bird,Cockatiel,5,Lethargy,Critical,Surgery,15.13,OWN0664,2023-10-26
+PET0665,Bird,Parakeet,3,Lethargy,Chronic Illness,Surgery,22.97,OWN0665,2023-10-27
+PET0666,Dog,Labrador,7,Lethargy,Critical,Surgery,35.33,OWN0666,2023-10-28
+PET0667,Hamster,Dwarf Campbell,6,Lethargy,Critical,Observation,37.71,OWN0667,2023-10-29
+PET0668,Dog,Labrador,4,Vomiting,Chronic Illness,Surgery,29.71,OWN0668,2023-10-30
+PET0669,Cat,Persian,2,Lethargy,Healthy,Medication,3.92,OWN0669,2023-10-31
+PET0670,Dog,Beagle,12,Vomiting,Recovering,Observation,26.93,OWN0670,2023-11-01
+PET0671,Bird,Parrot,9,Vomiting,Critical,Medication,16.71,OWN0671,2023-11-02
+PET0672,Dog,Terrier,1,Lethargy,Critical,Therapy,19.09,OWN0672,2023-11-03
+PET0673,Hamster,Dwarf Campbell,13,Sneezing,Healthy,Observation,2.44,OWN0673,2023-11-04
+PET0674,Rabbit,Holland Lop,13,Lethargy,Minor Illness,Therapy,8.05,OWN0674,2023-11-05
+PET0675,Dog,Beagle,11,Lethargy,Healthy,Surgery,31.73,OWN0675,2023-11-06
+PET0676,Hamster,Roborovski,14,Lethargy,Healthy,Surgery,18.43,OWN0676,2023-11-07
+PET0677,Hamster,Winter White,4,Sneezing,Critical,None,12.42,OWN0677,2023-11-08
+PET0678,Bird,Parakeet,1,Coughing,Recovering,Surgery,15.67,OWN0678,2023-11-09
+PET0679,Hamster,Dwarf Campbell,13,Coughing,Healthy,Therapy,34.25,OWN0679,2023-11-10
+PET0680,Hamster,Roborovski,6,Vomiting,Minor Illness,Surgery,30.09,OWN0680,2023-11-11
+PET0681,Hamster,Chinese,4,Vomiting,Chronic Illness,Observation,11.26,OWN0681,2023-11-12
+PET0682,Hamster,Chinese,5,Sneezing,Healthy,Surgery,5.14,OWN0682,2023-11-13
+PET0683,Cat,Persian,5,Diarrhea,Healthy,None,10.45,OWN0683,2023-11-14
+PET0684,Cat,Siamese,9,Coughing,Minor Illness,Surgery,36.87,OWN0684,2023-11-15
+PET0685,Bird,Canary,1,Vomiting,Recovering,Therapy,23.47,OWN0685,2023-11-16
+PET0686,Dog,Poodle,13,Coughing,Healthy,Therapy,21.57,OWN0686,2023-11-17
+PET0687,Hamster,Chinese,2,Sneezing,Healthy,Surgery,24.06,OWN0687,2023-11-18
+PET0688,Dog,Beagle,13,Sneezing,Recovering,Therapy,14.96,OWN0688,2023-11-19
+PET0689,Dog,Labrador,6,Diarrhea,Minor Illness,Therapy,32.38,OWN0689,2023-11-20
+PET0690,Bird,Canary,5,Diarrhea,Healthy,None,21.17,OWN0690,2023-11-21
+PET0691,Hamster,Winter White,11,Sneezing,Recovering,Observation,5.11,OWN0691,2023-11-22
+PET0692,Hamster,Syrian,7,Vomiting,Healthy,None,5.6,OWN0692,2023-11-23
+PET0693,Rabbit,Lionhead,3,Coughing,Chronic Illness,Medication,21.71,OWN0693,2023-11-24
+PET0694,Dog,Bulldog,3,Lethargy,Critical,None,37.49,OWN0694,2023-11-25
+PET0695,Dog,Beagle,10,Diarrhea,Chronic Illness,Surgery,12.68,OWN0695,2023-11-26
+PET0696,Cat,Siamese,2,Lethargy,Healthy,Observation,34.85,OWN0696,2023-11-27
+PET0697,Rabbit,Mini Rex,13,Vomiting,Minor Illness,Surgery,30.68,OWN0697,2023-11-28
+PET0698,Cat,Siamese,3,Diarrhea,Critical,Medication,10.29,OWN0698,2023-11-29
+PET0699,Cat,Sphynx,10,Lethargy,Chronic Illness,Observation,1.94,OWN0699,2023-11-30
+PET0700,Cat,Maine Coon,1,Vomiting,Recovering,Therapy,4.52,OWN0700,2023-12-01
+PET0701,Bird,Parakeet,5,Coughing,Minor Illness,None,29.28,OWN0701,2023-12-02
+PET0702,Bird,Finch,14,Vomiting,Chronic Illness,Surgery,8.39,OWN0702,2023-12-03
+PET0703,Cat,Persian,12,Diarrhea,Recovering,Medication,15.17,OWN0703,2023-12-04
+PET0704,Rabbit,Holland Lop,5,Sneezing,Healthy,Therapy,20.32,OWN0704,2023-12-05
+PET0705,Dog,Terrier,12,Coughing,Recovering,None,29.16,OWN0705,2023-12-06
+PET0706,Rabbit,Mini Rex,11,Lethargy,Chronic Illness,Therapy,4.97,OWN0706,2023-12-07
+PET0707,Hamster,Syrian,7,Diarrhea,Chronic Illness,None,16.55,OWN0707,2023-12-08
+PET0708,Bird,Parrot,4,Sneezing,Healthy,Observation,19.66,OWN0708,2023-12-09
+PET0709,Dog,Beagle,3,Vomiting,Recovering,Therapy,21.86,OWN0709,2023-12-10
+PET0710,Dog,Poodle,1,Sneezing,Recovering,Therapy,32.83,OWN0710,2023-12-11
+PET0711,Hamster,Winter White,12,Diarrhea,Healthy,Therapy,7.28,OWN0711,2023-12-12
+PET0712,Hamster,Dwarf Campbell,8,Diarrhea,Recovering,Observation,32.41,OWN0712,2023-12-13
+PET0713,Cat,Maine Coon,13,Sneezing,Healthy,Medication,27.87,OWN0713,2023-12-14
+PET0714,Bird,Canary,3,Vomiting,Minor Illness,None,22.46,OWN0714,2023-12-15
+PET0715,Bird,Cockatiel,13,Sneezing,Chronic Illness,Therapy,28.13,OWN0715,2023-12-16
+PET0716,Rabbit,Holland Lop,2,Diarrhea,Minor Illness,Observation,16.77,OWN0716,2023-12-17
+PET0717,Cat,Siamese,11,Diarrhea,Critical,Medication,5.97,OWN0717,2023-12-18
+PET0718,Cat,Maine Coon,4,Lethargy,Critical,None,26.8,OWN0718,2023-12-19
+PET0719,Cat,Bengal,3,Lethargy,Critical,Observation,21.22,OWN0719,2023-12-20
+PET0720,Cat,Maine Coon,13,Coughing,Healthy,None,25.76,OWN0720,2023-12-21
+PET0721,Bird,Parakeet,1,Diarrhea,Recovering,Therapy,13.85,OWN0721,2023-12-22
+PET0722,Bird,Canary,3,Lethargy,Minor Illness,Medication,36.32,OWN0722,2023-12-23
+PET0723,Cat,Persian,12,Sneezing,Minor Illness,Observation,23.7,OWN0723,2023-12-24
+PET0724,Rabbit,Mini Rex,2,Vomiting,Minor Illness,Medication,3.87,OWN0724,2023-12-25
+PET0725,Dog,Bulldog,8,Sneezing,Minor Illness,Therapy,18.27,OWN0725,2023-12-26
+PET0726,Dog,Terrier,6,Vomiting,Critical,Medication,30.38,OWN0726,2023-12-27
+PET0727,Rabbit,Holland Lop,9,Lethargy,Minor Illness,Medication,31.87,OWN0727,2023-12-28
+PET0728,Cat,Bengal,8,Coughing,Recovering,Surgery,20.04,OWN0728,2023-12-29
+PET0729,Bird,Finch,10,Sneezing,Critical,Medication,35.84,OWN0729,2023-12-30
+PET0730,Dog,Labrador,3,Sneezing,Minor Illness,None,11.07,OWN0730,2023-12-31
+PET0731,Hamster,Syrian,5,Sneezing,Healthy,Observation,16.72,OWN0731,2024-01-01
+PET0732,Hamster,Roborovski,7,Vomiting,Chronic Illness,Surgery,35.99,OWN0732,2024-01-02
+PET0733,Rabbit,Holland Lop,5,Lethargy,Chronic Illness,Observation,35.9,OWN0733,2024-01-03
+PET0734,Cat,Bengal,8,Sneezing,Chronic Illness,Observation,27.59,OWN0734,2024-01-04
+PET0735,Dog,Terrier,12,Sneezing,Critical,Therapy,34.43,OWN0735,2024-01-05
+PET0736,Cat,Siamese,5,Coughing,Minor Illness,Therapy,4.01,OWN0736,2024-01-06
+PET0737,Dog,Bulldog,1,Coughing,Critical,Surgery,34.67,OWN0737,2024-01-07
+PET0738,Rabbit,Netherland Dwarf,5,Lethargy,Recovering,Therapy,13.16,OWN0738,2024-01-08
+PET0739,Rabbit,Flemish Giant,4,Lethargy,Healthy,Therapy,7.54,OWN0739,2024-01-09
+PET0740,Hamster,Winter White,6,Diarrhea,Healthy,Therapy,9.96,OWN0740,2024-01-10
+PET0741,Cat,Bengal,3,Coughing,Chronic Illness,Observation,17.01,OWN0741,2024-01-11
+PET0742,Hamster,Roborovski,11,Diarrhea,Chronic Illness,Surgery,10.42,OWN0742,2024-01-12
+PET0743,Cat,Sphynx,5,Vomiting,Chronic Illness,Observation,13.16,OWN0743,2024-01-13
+PET0744,Hamster,Dwarf Campbell,2,Diarrhea,Minor Illness,None,5.83,OWN0744,2024-01-14
+PET0745,Bird,Finch,11,Sneezing,Recovering,Observation,12.2,OWN0745,2024-01-15
+PET0746,Bird,Parakeet,6,Diarrhea,Recovering,None,23.11,OWN0746,2024-01-16
+PET0747,Bird,Cockatiel,13,Lethargy,Recovering,Medication,17.95,OWN0747,2024-01-17
+PET0748,Bird,Canary,12,Vomiting,Recovering,Medication,14.2,OWN0748,2024-01-18
+PET0749,Dog,Poodle,6,Sneezing,Chronic Illness,None,29.98,OWN0749,2024-01-19
+PET0750,Bird,Canary,5,Diarrhea,Healthy,None,35.79,OWN0750,2024-01-20
+PET0751,Rabbit,Flemish Giant,6,Vomiting,Chronic Illness,Observation,30.39,OWN0751,2024-01-21
+PET0752,Rabbit,Netherland Dwarf,11,Vomiting,Recovering,None,13.61,OWN0752,2024-01-22
+PET0753,Dog,Labrador,7,Sneezing,Chronic Illness,Surgery,29.91,OWN0753,2024-01-23
+PET0754,Bird,Finch,12,Diarrhea,Recovering,Medication,6.5,OWN0754,2024-01-24
+PET0755,Bird,Canary,5,Vomiting,Critical,Medication,5.65,OWN0755,2024-01-25
+PET0756,Bird,Parakeet,1,Vomiting,Healthy,None,14.15,OWN0756,2024-01-26
+PET0757,Hamster,Chinese,8,Coughing,Critical,Therapy,32.4,OWN0757,2024-01-27
+PET0758,Cat,Persian,4,Vomiting,Minor Illness,Therapy,10.23,OWN0758,2024-01-28
+PET0759,Hamster,Chinese,9,Coughing,Chronic Illness,None,3.0,OWN0759,2024-01-29
+PET0760,Cat,Sphynx,14,Diarrhea,Minor Illness,Surgery,5.7,OWN0760,2024-01-30
+PET0761,Bird,Cockatiel,10,Diarrhea,Chronic Illness,Therapy,34.42,OWN0761,2024-01-31
+PET0762,Bird,Cockatiel,12,Diarrhea,Critical,None,25.53,OWN0762,2024-02-01
+PET0763,Hamster,Syrian,6,Lethargy,Recovering,Surgery,10.5,OWN0763,2024-02-02
+PET0764,Hamster,Dwarf Campbell,1,Diarrhea,Recovering,Surgery,22.43,OWN0764,2024-02-03
+PET0765,Cat,Siamese,3,Vomiting,Chronic Illness,Observation,21.34,OWN0765,2024-02-04
+PET0766,Rabbit,Flemish Giant,3,Sneezing,Recovering,Surgery,26.39,OWN0766,2024-02-05
+PET0767,Cat,Siamese,10,Coughing,Critical,Therapy,9.71,OWN0767,2024-02-06
+PET0768,Hamster,Chinese,12,Lethargy,Recovering,Therapy,34.64,OWN0768,2024-02-07
+PET0769,Hamster,Chinese,12,Diarrhea,Critical,None,12.72,OWN0769,2024-02-08
+PET0770,Dog,Poodle,4,Diarrhea,Minor Illness,None,27.92,OWN0770,2024-02-09
+PET0771,Hamster,Winter White,6,Sneezing,Critical,Surgery,1.14,OWN0771,2024-02-10
+PET0772,Dog,Bulldog,7,Sneezing,Healthy,Medication,15.22,OWN0772,2024-02-11
+PET0773,Rabbit,Lionhead,10,Lethargy,Healthy,Observation,14.39,OWN0773,2024-02-12
+PET0774,Cat,Sphynx,4,Coughing,Healthy,Medication,21.97,OWN0774,2024-02-13
+PET0775,Cat,Bengal,6,Diarrhea,Chronic Illness,Surgery,3.37,OWN0775,2024-02-14
+PET0776,Dog,Bulldog,11,Lethargy,Chronic Illness,Surgery,31.71,OWN0776,2024-02-15
+PET0777,Cat,Siamese,1,Vomiting,Chronic Illness,Medication,9.1,OWN0777,2024-02-16
+PET0778,Hamster,Syrian,14,Vomiting,Critical,Observation,27.24,OWN0778,2024-02-17
+PET0779,Bird,Cockatiel,8,Lethargy,Chronic Illness,Medication,32.23,OWN0779,2024-02-18
+PET0780,Dog,Bulldog,7,Diarrhea,Minor Illness,None,22.69,OWN0780,2024-02-19
+PET0781,Cat,Persian,11,Lethargy,Healthy,Therapy,29.76,OWN0781,2024-02-20
+PET0782,Dog,Labrador,11,Diarrhea,Critical,None,26.64,OWN0782,2024-02-21
+PET0783,Dog,Terrier,9,Sneezing,Healthy,Therapy,14.54,OWN0783,2024-02-22
+PET0784,Bird,Parakeet,3,Lethargy,Chronic Illness,Surgery,32.45,OWN0784,2024-02-23
+PET0785,Hamster,Chinese,2,Diarrhea,Critical,Observation,12.14,OWN0785,2024-02-24
+PET0786,Dog,Beagle,1,Lethargy,Recovering,Medication,23.06,OWN0786,2024-02-25
+PET0787,Cat,Sphynx,3,Lethargy,Minor Illness,Observation,29.94,OWN0787,2024-02-26
+PET0788,Rabbit,Flemish Giant,5,Diarrhea,Chronic Illness,Medication,15.47,OWN0788,2024-02-27
+PET0789,Dog,Labrador,14,Diarrhea,Chronic Illness,None,12.46,OWN0789,2024-02-28
+PET0790,Dog,Beagle,11,Coughing,Minor Illness,None,18.64,OWN0790,2024-02-29
+PET0791,Bird,Cockatiel,2,Lethargy,Minor Illness,Medication,32.81,OWN0791,2024-03-01
+PET0792,Hamster,Dwarf Campbell,12,Vomiting,Recovering,Observation,37.23,OWN0792,2024-03-02
+PET0793,Rabbit,Holland Lop,3,Lethargy,Chronic Illness,Medication,22.03,OWN0793,2024-03-03
+PET0794,Cat,Sphynx,4,Lethargy,Chronic Illness,Surgery,26.63,OWN0794,2024-03-04
+PET0795,Rabbit,Netherland Dwarf,7,Diarrhea,Healthy,None,36.18,OWN0795,2024-03-05
+PET0796,Cat,Maine Coon,13,Lethargy,Critical,Surgery,4.39,OWN0796,2024-03-06
+PET0797,Hamster,Syrian,3,Lethargy,Critical,None,9.67,OWN0797,2024-03-07
+PET0798,Cat,Siamese,9,Vomiting,Healthy,None,28.5,OWN0798,2024-03-08
+PET0799,Bird,Parrot,8,Diarrhea,Critical,Therapy,33.04,OWN0799,2024-03-09
+PET0800,Bird,Finch,4,Lethargy,Minor Illness,Surgery,34.35,OWN0800,2024-03-10
+PET0801,Bird,Finch,13,Sneezing,Critical,Surgery,16.9,OWN0801,2024-03-11
+PET0802,Bird,Parakeet,1,Coughing,Critical,Therapy,4.03,OWN0802,2024-03-12
+PET0803,Rabbit,Netherland Dwarf,1,Vomiting,Healthy,Observation,17.79,OWN0803,2024-03-13
+PET0804,Hamster,Chinese,1,Lethargy,Recovering,Surgery,9.61,OWN0804,2024-03-14
+PET0805,Cat,Persian,1,Sneezing,Critical,Medication,12.0,OWN0805,2024-03-15
+PET0806,Cat,Maine Coon,8,Lethargy,Critical,Therapy,31.0,OWN0806,2024-03-16
+PET0807,Bird,Finch,3,Lethargy,Recovering,Surgery,3.48,OWN0807,2024-03-17
+PET0808,Bird,Parakeet,6,Diarrhea,Healthy,Observation,33.19,OWN0808,2024-03-18
+PET0809,Dog,Terrier,3,Diarrhea,Recovering,Surgery,17.39,OWN0809,2024-03-19
+PET0810,Hamster,Chinese,11,Diarrhea,Healthy,None,24.04,OWN0810,2024-03-20
+PET0811,Rabbit,Netherland Dwarf,5,Sneezing,Minor Illness,Medication,4.04,OWN0811,2024-03-21
+PET0812,Cat,Bengal,13,Lethargy,Healthy,Therapy,13.83,OWN0812,2024-03-22
+PET0813,Dog,Labrador,14,Coughing,Minor Illness,None,4.04,OWN0813,2024-03-23
+PET0814,Dog,Beagle,13,Vomiting,Minor Illness,Observation,38.48,OWN0814,2024-03-24
+PET0815,Cat,Persian,7,Diarrhea,Healthy,None,32.39,OWN0815,2024-03-25
+PET0816,Rabbit,Mini Rex,2,Diarrhea,Chronic Illness,None,18.66,OWN0816,2024-03-26
+PET0817,Dog,Poodle,6,Lethargy,Healthy,Observation,9.33,OWN0817,2024-03-27
+PET0818,Dog,Beagle,13,Lethargy,Critical,None,37.37,OWN0818,2024-03-28
+PET0819,Hamster,Roborovski,6,Sneezing,Critical,Therapy,14.11,OWN0819,2024-03-29
+PET0820,Rabbit,Flemish Giant,11,Sneezing,Chronic Illness,Surgery,6.86,OWN0820,2024-03-30
+PET0821,Dog,Labrador,3,Diarrhea,Minor Illness,None,22.74,OWN0821,2024-03-31
+PET0822,Rabbit,Mini Rex,6,Lethargy,Chronic Illness,Therapy,37.78,OWN0822,2024-04-01
+PET0823,Cat,Maine Coon,10,Coughing,Critical,Surgery,0.65,OWN0823,2024-04-02
+PET0824,Bird,Canary,10,Vomiting,Chronic Illness,Surgery,9.91,OWN0824,2024-04-03
+PET0825,Dog,Poodle,14,Lethargy,Healthy,None,37.57,OWN0825,2024-04-04
+PET0826,Hamster,Dwarf Campbell,5,Lethargy,Chronic Illness,Therapy,7.26,OWN0826,2024-04-05
+PET0827,Cat,Maine Coon,12,Sneezing,Minor Illness,None,4.97,OWN0827,2024-04-06
+PET0828,Rabbit,Netherland Dwarf,2,Vomiting,Healthy,Observation,23.02,OWN0828,2024-04-07
+PET0829,Cat,Bengal,9,Diarrhea,Recovering,Surgery,34.54,OWN0829,2024-04-08
+PET0830,Dog,Beagle,8,Lethargy,Critical,None,19.35,OWN0830,2024-04-09
+PET0831,Rabbit,Netherland Dwarf,3,Diarrhea,Critical,Surgery,39.79,OWN0831,2024-04-10
+PET0832,Bird,Parrot,8,Lethargy,Chronic Illness,Therapy,27.33,OWN0832,2024-04-11
+PET0833,Cat,Persian,14,Diarrhea,Healthy,Medication,3.43,OWN0833,2024-04-12
+PET0834,Dog,Labrador,9,Vomiting,Recovering,None,39.72,OWN0834,2024-04-13
+PET0835,Hamster,Winter White,14,Sneezing,Healthy,None,16.61,OWN0835,2024-04-14
+PET0836,Rabbit,Holland Lop,3,Vomiting,Critical,Surgery,11.85,OWN0836,2024-04-15
+PET0837,Cat,Bengal,3,Coughing,Healthy,Therapy,22.54,OWN0837,2024-04-16
+PET0838,Cat,Siamese,2,Sneezing,Recovering,Observation,12.52,OWN0838,2024-04-17
+PET0839,Bird,Cockatiel,8,Vomiting,Chronic Illness,Therapy,3.92,OWN0839,2024-04-18
+PET0840,Bird,Parakeet,10,Coughing,Minor Illness,None,0.56,OWN0840,2024-04-19
+PET0841,Hamster,Roborovski,1,Lethargy,Healthy,Observation,18.26,OWN0841,2024-04-20
+PET0842,Hamster,Roborovski,8,Lethargy,Minor Illness,Therapy,33.56,OWN0842,2024-04-21
+PET0843,Dog,Labrador,7,Diarrhea,Critical,Medication,23.11,OWN0843,2024-04-22
+PET0844,Dog,Labrador,14,Sneezing,Chronic Illness,Surgery,39.97,OWN0844,2024-04-23
+PET0845,Hamster,Winter White,7,Lethargy,Chronic Illness,Therapy,11.83,OWN0845,2024-04-24
+PET0846,Hamster,Winter White,3,Sneezing,Healthy,Therapy,11.58,OWN0846,2024-04-25
+PET0847,Rabbit,Netherland Dwarf,1,Lethargy,Chronic Illness,Medication,6.81,OWN0847,2024-04-26
+PET0848,Bird,Cockatiel,4,Diarrhea,Healthy,None,6.98,OWN0848,2024-04-27
+PET0849,Dog,Beagle,9,Vomiting,Healthy,Surgery,11.76,OWN0849,2024-04-28
+PET0850,Bird,Parakeet,5,Diarrhea,Minor Illness,Therapy,31.82,OWN0850,2024-04-29
+PET0851,Bird,Parrot,1,Coughing,Chronic Illness,Observation,36.28,OWN0851,2024-04-30
+PET0852,Hamster,Chinese,5,Lethargy,Healthy,Therapy,39.02,OWN0852,2024-05-01
+PET0853,Rabbit,Mini Rex,13,Coughing,Minor Illness,Surgery,9.68,OWN0853,2024-05-02
+PET0854,Cat,Bengal,8,Coughing,Recovering,Therapy,35.31,OWN0854,2024-05-03
+PET0855,Rabbit,Flemish Giant,8,Sneezing,Minor Illness,Medication,13.47,OWN0855,2024-05-04
+PET0856,Rabbit,Flemish Giant,5,Lethargy,Minor Illness,Therapy,4.96,OWN0856,2024-05-05
+PET0857,Bird,Cockatiel,12,Coughing,Healthy,Therapy,34.87,OWN0857,2024-05-06
+PET0858,Rabbit,Flemish Giant,9,Vomiting,Critical,Observation,25.63,OWN0858,2024-05-07
+PET0859,Dog,Beagle,1,Coughing,Critical,Medication,7.01,OWN0859,2024-05-08
+PET0860,Bird,Cockatiel,4,Vomiting,Critical,Medication,17.48,OWN0860,2024-05-09
+PET0861,Dog,Bulldog,3,Sneezing,Minor Illness,Therapy,11.85,OWN0861,2024-05-10
+PET0862,Cat,Sphynx,2,Coughing,Healthy,Observation,29.6,OWN0862,2024-05-11
+PET0863,Bird,Finch,8,Diarrhea,Chronic Illness,Therapy,18.41,OWN0863,2024-05-12
+PET0864,Cat,Persian,7,Sneezing,Minor Illness,Therapy,39.58,OWN0864,2024-05-13
+PET0865,Bird,Parakeet,9,Vomiting,Minor Illness,Surgery,2.66,OWN0865,2024-05-14
+PET0866,Hamster,Roborovski,2,Sneezing,Healthy,Surgery,14.52,OWN0866,2024-05-15
+PET0867,Rabbit,Lionhead,14,Coughing,Recovering,Observation,19.54,OWN0867,2024-05-16
+PET0868,Hamster,Winter White,14,Lethargy,Minor Illness,None,20.37,OWN0868,2024-05-17
+PET0869,Cat,Maine Coon,4,Lethargy,Recovering,Surgery,12.98,OWN0869,2024-05-18
+PET0870,Rabbit,Netherland Dwarf,14,Vomiting,Recovering,None,29.3,OWN0870,2024-05-19
+PET0871,Bird,Canary,6,Vomiting,Critical,Medication,35.05,OWN0871,2024-05-20
+PET0872,Rabbit,Holland Lop,11,Lethargy,Healthy,Surgery,37.58,OWN0872,2024-05-21
+PET0873,Dog,Beagle,3,Vomiting,Recovering,Surgery,32.3,OWN0873,2024-05-22
+PET0874,Rabbit,Lionhead,8,Sneezing,Healthy,Observation,34.1,OWN0874,2024-05-23
+PET0875,Dog,Beagle,3,Diarrhea,Critical,None,22.25,OWN0875,2024-05-24
+PET0876,Rabbit,Mini Rex,14,Diarrhea,Healthy,Surgery,33.12,OWN0876,2024-05-25
+PET0877,Dog,Labrador,12,Sneezing,Minor Illness,Surgery,12.49,OWN0877,2024-05-26
+PET0878,Cat,Maine Coon,13,Diarrhea,Recovering,Observation,16.24,OWN0878,2024-05-27
+PET0879,Hamster,Syrian,13,Coughing,Healthy,Observation,13.02,OWN0879,2024-05-28
+PET0880,Bird,Finch,2,Sneezing,Chronic Illness,None,18.96,OWN0880,2024-05-29
+PET0881,Rabbit,Mini Rex,13,Vomiting,Healthy,Medication,11.78,OWN0881,2024-05-30
+PET0882,Hamster,Syrian,13,Sneezing,Recovering,Medication,38.48,OWN0882,2024-05-31
+PET0883,Bird,Parakeet,3,Lethargy,Critical,Therapy,12.86,OWN0883,2024-06-01
+PET0884,Bird,Finch,11,Vomiting,Critical,Surgery,4.37,OWN0884,2024-06-02
+PET0885,Dog,Bulldog,6,Lethargy,Recovering,None,21.31,OWN0885,2024-06-03
+PET0886,Cat,Siamese,2,Vomiting,Minor Illness,Surgery,2.76,OWN0886,2024-06-04
+PET0887,Cat,Bengal,8,Diarrhea,Minor Illness,None,4.87,OWN0887,2024-06-05
+PET0888,Hamster,Chinese,1,Sneezing,Critical,None,9.17,OWN0888,2024-06-06
+PET0889,Cat,Siamese,7,Coughing,Critical,None,18.84,OWN0889,2024-06-07
+PET0890,Rabbit,Mini Rex,2,Vomiting,Recovering,Surgery,17.61,OWN0890,2024-06-08
+PET0891,Cat,Bengal,10,Vomiting,Minor Illness,Observation,32.09,OWN0891,2024-06-09
+PET0892,Hamster,Chinese,12,Lethargy,Critical,Surgery,29.71,OWN0892,2024-06-10
+PET0893,Cat,Sphynx,6,Diarrhea,Minor Illness,None,17.34,OWN0893,2024-06-11
+PET0894,Rabbit,Flemish Giant,12,Lethargy,Critical,Therapy,13.68,OWN0894,2024-06-12
+PET0895,Dog,Bulldog,2,Lethargy,Healthy,Medication,13.0,OWN0895,2024-06-13
+PET0896,Hamster,Chinese,2,Diarrhea,Chronic Illness,None,31.07,OWN0896,2024-06-14
+PET0897,Dog,Beagle,10,Coughing,Healthy,Therapy,2.56,OWN0897,2024-06-15
+PET0898,Dog,Terrier,13,Lethargy,Critical,Observation,1.01,OWN0898,2024-06-16
+PET0899,Dog,Bulldog,8,Lethargy,Chronic Illness,None,31.92,OWN0899,2024-06-17
+PET0900,Bird,Cockatiel,12,Vomiting,Chronic Illness,Therapy,19.35,OWN0900,2024-06-18
+PET0901,Bird,Finch,2,Diarrhea,Critical,None,5.67,OWN0901,2024-06-19
+PET0902,Dog,Poodle,7,Sneezing,Critical,Surgery,9.8,OWN0902,2024-06-20
+PET0903,Hamster,Chinese,3,Coughing,Minor Illness,Therapy,37.33,OWN0903,2024-06-21
+PET0904,Rabbit,Mini Rex,8,Coughing,Critical,Surgery,34.45,OWN0904,2024-06-22
+PET0905,Rabbit,Mini Rex,7,Diarrhea,Recovering,Surgery,28.54,OWN0905,2024-06-23
+PET0906,Cat,Sphynx,14,Vomiting,Critical,Therapy,19.55,OWN0906,2024-06-24
+PET0907,Hamster,Dwarf Campbell,8,Vomiting,Recovering,Medication,21.05,OWN0907,2024-06-25
+PET0908,Bird,Finch,14,Diarrhea,Critical,Therapy,39.02,OWN0908,2024-06-26
+PET0909,Dog,Terrier,7,Vomiting,Minor Illness,Medication,38.65,OWN0909,2024-06-27
+PET0910,Cat,Sphynx,11,Coughing,Recovering,None,9.0,OWN0910,2024-06-28
+PET0911,Rabbit,Netherland Dwarf,6,Coughing,Healthy,None,32.54,OWN0911,2024-06-29
+PET0912,Bird,Canary,13,Sneezing,Recovering,Therapy,8.29,OWN0912,2024-06-30
+PET0913,Bird,Cockatiel,7,Diarrhea,Minor Illness,None,8.93,OWN0913,2024-07-01
+PET0914,Dog,Labrador,5,Lethargy,Recovering,Observation,27.21,OWN0914,2024-07-02
+PET0915,Rabbit,Mini Rex,7,Lethargy,Critical,Surgery,16.5,OWN0915,2024-07-03
+PET0916,Hamster,Winter White,1,Sneezing,Critical,Surgery,37.3,OWN0916,2024-07-04
+PET0917,Bird,Canary,1,Sneezing,Minor Illness,Medication,4.02,OWN0917,2024-07-05
+PET0918,Dog,Beagle,9,Vomiting,Chronic Illness,None,20.71,OWN0918,2024-07-06
+PET0919,Hamster,Winter White,14,Sneezing,Critical,Medication,36.78,OWN0919,2024-07-07
+PET0920,Rabbit,Mini Rex,5,Sneezing,Healthy,Surgery,36.21,OWN0920,2024-07-08
+PET0921,Bird,Cockatiel,13,Lethargy,Minor Illness,Surgery,6.68,OWN0921,2024-07-09
+PET0922,Hamster,Dwarf Campbell,5,Vomiting,Recovering,None,14.98,OWN0922,2024-07-10
+PET0923,Hamster,Winter White,3,Sneezing,Recovering,Observation,24.96,OWN0923,2024-07-11
+PET0924,Hamster,Winter White,5,Sneezing,Healthy,Observation,6.8,OWN0924,2024-07-12
+PET0925,Bird,Parakeet,3,Vomiting,Critical,None,38.74,OWN0925,2024-07-13
+PET0926,Bird,Parrot,9,Diarrhea,Minor Illness,None,36.63,OWN0926,2024-07-14
+PET0927,Cat,Maine Coon,9,Vomiting,Healthy,Medication,7.09,OWN0927,2024-07-15
+PET0928,Rabbit,Holland Lop,6,Lethargy,Critical,None,5.29,OWN0928,2024-07-16
+PET0929,Dog,Bulldog,1,Diarrhea,Minor Illness,Observation,3.87,OWN0929,2024-07-17
+PET0930,Hamster,Roborovski,7,Coughing,Recovering,None,36.42,OWN0930,2024-07-18
+PET0931,Cat,Sphynx,7,Vomiting,Minor Illness,Medication,8.15,OWN0931,2024-07-19
+PET0932,Dog,Bulldog,14,Lethargy,Chronic Illness,Medication,16.94,OWN0932,2024-07-20
+PET0933,Cat,Sphynx,10,Diarrhea,Minor Illness,Medication,18.23,OWN0933,2024-07-21
+PET0934,Bird,Canary,10,Vomiting,Chronic Illness,Medication,24.16,OWN0934,2024-07-22
+PET0935,Hamster,Chinese,4,Sneezing,Minor Illness,Therapy,3.33,OWN0935,2024-07-23
+PET0936,Dog,Beagle,8,Vomiting,Chronic Illness,None,9.46,OWN0936,2024-07-24
+PET0937,Dog,Bulldog,6,Coughing,Recovering,Surgery,37.29,OWN0937,2024-07-25
+PET0938,Dog,Bulldog,4,Vomiting,Critical,None,36.38,OWN0938,2024-07-26
+PET0939,Dog,Beagle,4,Diarrhea,Chronic Illness,Therapy,31.36,OWN0939,2024-07-27
+PET0940,Dog,Poodle,2,Diarrhea,Chronic Illness,Medication,1.27,OWN0940,2024-07-28
+PET0941,Cat,Siamese,14,Vomiting,Recovering,Therapy,13.42,OWN0941,2024-07-29
+PET0942,Hamster,Winter White,2,Diarrhea,Chronic Illness,Observation,25.3,OWN0942,2024-07-30
+PET0943,Bird,Parakeet,12,Sneezing,Healthy,Observation,11.37,OWN0943,2024-07-31
+PET0944,Bird,Cockatiel,14,Vomiting,Recovering,None,36.43,OWN0944,2024-08-01
+PET0945,Bird,Canary,4,Sneezing,Healthy,None,25.54,OWN0945,2024-08-02
+PET0946,Bird,Cockatiel,5,Sneezing,Recovering,Surgery,3.34,OWN0946,2024-08-03
+PET0947,Cat,Persian,8,Lethargy,Chronic Illness,Surgery,36.41,OWN0947,2024-08-04
+PET0948,Rabbit,Mini Rex,6,Vomiting,Healthy,Observation,38.33,OWN0948,2024-08-05
+PET0949,Hamster,Syrian,14,Diarrhea,Chronic Illness,Medication,3.57,OWN0949,2024-08-06
+PET0950,Dog,Labrador,4,Sneezing,Recovering,Therapy,21.53,OWN0950,2024-08-07
+PET0951,Rabbit,Holland Lop,13,Lethargy,Chronic Illness,Surgery,12.48,OWN0951,2024-08-08
+PET0952,Bird,Parrot,11,Vomiting,Healthy,Surgery,16.02,OWN0952,2024-08-09
+PET0953,Rabbit,Holland Lop,7,Vomiting,Healthy,Medication,7.6,OWN0953,2024-08-10
+PET0954,Hamster,Syrian,8,Coughing,Chronic Illness,Medication,23.33,OWN0954,2024-08-11
+PET0955,Dog,Beagle,2,Coughing,Minor Illness,None,38.34,OWN0955,2024-08-12
+PET0956,Dog,Bulldog,12,Sneezing,Recovering,Therapy,20.37,OWN0956,2024-08-13
+PET0957,Hamster,Winter White,7,Coughing,Recovering,Medication,3.78,OWN0957,2024-08-14
+PET0958,Hamster,Syrian,14,Sneezing,Chronic Illness,Surgery,24.99,OWN0958,2024-08-15
+PET0959,Bird,Canary,2,Diarrhea,Minor Illness,Surgery,13.94,OWN0959,2024-08-16
+PET0960,Dog,Beagle,2,Sneezing,Healthy,Observation,34.31,OWN0960,2024-08-17
+PET0961,Rabbit,Netherland Dwarf,8,Coughing,Critical,Medication,17.67,OWN0961,2024-08-18
+PET0962,Cat,Bengal,2,Diarrhea,Critical,None,8.12,OWN0962,2024-08-19
+PET0963,Cat,Sphynx,11,Coughing,Chronic Illness,Therapy,8.05,OWN0963,2024-08-20
+PET0964,Hamster,Chinese,9,Sneezing,Minor Illness,None,30.87,OWN0964,2024-08-21
+PET0965,Bird,Finch,12,Lethargy,Minor Illness,Surgery,10.99,OWN0965,2024-08-22
+PET0966,Cat,Persian,1,Vomiting,Recovering,None,30.81,OWN0966,2024-08-23
+PET0967,Dog,Poodle,9,Coughing,Healthy,Surgery,8.63,OWN0967,2024-08-24
+PET0968,Hamster,Syrian,1,Sneezing,Minor Illness,Surgery,13.21,OWN0968,2024-08-25
+PET0969,Rabbit,Holland Lop,10,Diarrhea,Critical,Surgery,18.89,OWN0969,2024-08-26
+PET0970,Hamster,Chinese,13,Coughing,Healthy,Surgery,37.76,OWN0970,2024-08-27
+PET0971,Rabbit,Mini Rex,10,Coughing,Healthy,Surgery,37.3,OWN0971,2024-08-28
+PET0972,Hamster,Roborovski,2,Vomiting,Chronic Illness,Observation,8.67,OWN0972,2024-08-29
+PET0973,Hamster,Winter White,6,Sneezing,Minor Illness,None,14.65,OWN0973,2024-08-30
+PET0974,Hamster,Chinese,6,Lethargy,Chronic Illness,Observation,6.4,OWN0974,2024-08-31
+PET0975,Rabbit,Holland Lop,1,Diarrhea,Minor Illness,Observation,20.64,OWN0975,2024-09-01
+PET0976,Rabbit,Mini Rex,7,Sneezing,Recovering,Medication,18.69,OWN0976,2024-09-02
+PET0977,Hamster,Winter White,8,Diarrhea,Chronic Illness,Medication,36.08,OWN0977,2024-09-03
+PET0978,Cat,Siamese,2,Coughing,Chronic Illness,Medication,37.24,OWN0978,2024-09-04
+PET0979,Bird,Finch,8,Vomiting,Critical,Therapy,15.65,OWN0979,2024-09-05
+PET0980,Bird,Parrot,9,Vomiting,Chronic Illness,Medication,19.92,OWN0980,2024-09-06
+PET0981,Bird,Cockatiel,6,Lethargy,Minor Illness,None,35.9,OWN0981,2024-09-07
+PET0982,Rabbit,Lionhead,5,Vomiting,Critical,Observation,32.36,OWN0982,2024-09-08
+PET0983,Rabbit,Lionhead,12,Coughing,Chronic Illness,None,0.64,OWN0983,2024-09-09
+PET0984,Cat,Siamese,9,Lethargy,Chronic Illness,Medication,13.14,OWN0984,2024-09-10
+PET0985,Bird,Cockatiel,13,Sneezing,Recovering,Therapy,17.16,OWN0985,2024-09-11
+PET0986,Bird,Parakeet,12,Vomiting,Chronic Illness,Therapy,9.57,OWN0986,2024-09-12
+PET0987,Hamster,Winter White,11,Lethargy,Healthy,Observation,8.38,OWN0987,2024-09-13
+PET0988,Rabbit,Netherland Dwarf,9,Coughing,Critical,None,1.99,OWN0988,2024-09-14
+PET0989,Bird,Parakeet,1,Diarrhea,Healthy,Surgery,25.91,OWN0989,2024-09-15
+PET0990,Cat,Maine Coon,11,Diarrhea,Critical,None,10.87,OWN0990,2024-09-16
+PET0991,Cat,Bengal,3,Coughing,Recovering,Medication,2.57,OWN0991,2024-09-17
+PET0992,Bird,Finch,9,Coughing,Chronic Illness,Surgery,9.62,OWN0992,2024-09-18
+PET0993,Rabbit,Lionhead,11,Diarrhea,Chronic Illness,Therapy,32.18,OWN0993,2024-09-19
+PET0994,Cat,Bengal,2,Lethargy,Chronic Illness,Observation,34.13,OWN0994,2024-09-20
+PET0995,Hamster,Roborovski,12,Diarrhea,Critical,Observation,19.58,OWN0995,2024-09-21
+PET0996,Cat,Maine Coon,4,Coughing,Chronic Illness,Therapy,16.93,OWN0996,2024-09-22
+PET0997,Dog,Beagle,4,Vomiting,Healthy,Medication,39.13,OWN0997,2024-09-23
+PET0998,Dog,Terrier,2,Sneezing,Chronic Illness,Therapy,8.42,OWN0998,2024-09-24
+PET0999,Rabbit,Mini Rex,3,Vomiting,Recovering,Medication,9.01,OWN0999,2024-09-25
+PET1000,Bird,Canary,13,Vomiting,Healthy,Surgery,12.03,OWN1000,2024-09-26
+PET1001,Rabbit,Flemish Giant,3,Coughing,Chronic Illness,Therapy,7.32,OWN1001,2024-09-27
+PET1002,Rabbit,Holland Lop,1,Diarrhea,Chronic Illness,Medication,15.48,OWN1002,2024-09-28
+PET1003,Rabbit,Holland Lop,6,Lethargy,Minor Illness,Surgery,36.48,OWN1003,2024-09-29
+PET1004,Rabbit,Holland Lop,8,Vomiting,Critical,Therapy,24.81,OWN1004,2024-09-30
+PET1005,Hamster,Dwarf Campbell,12,Diarrhea,Healthy,Observation,16.77,OWN1005,2024-10-01
+PET1006,Hamster,Dwarf Campbell,3,Lethargy,Minor Illness,Therapy,37.41,OWN1006,2024-10-02
+PET1007,Cat,Maine Coon,5,Vomiting,Recovering,None,2.41,OWN1007,2024-10-03
+PET1008,Dog,Labrador,1,Lethargy,Critical,Therapy,8.81,OWN1008,2024-10-04
+PET1009,Rabbit,Flemish Giant,10,Diarrhea,Healthy,None,22.85,OWN1009,2024-10-05
+PET1010,Cat,Bengal,7,Sneezing,Chronic Illness,Surgery,24.81,OWN1010,2024-10-06
+PET1011,Dog,Labrador,10,Diarrhea,Healthy,Therapy,2.06,OWN1011,2024-10-07
+PET1012,Bird,Parrot,13,Coughing,Chronic Illness,Surgery,16.42,OWN1012,2024-10-08
+PET1013,Hamster,Syrian,1,Lethargy,Critical,Surgery,26.14,OWN1013,2024-10-09
+PET1014,Dog,Beagle,12,Sneezing,Chronic Illness,Medication,28.07,OWN1014,2024-10-10
+PET1015,Bird,Canary,11,Lethargy,Recovering,Surgery,25.71,OWN1015,2024-10-11
+PET1016,Dog,Beagle,9,Lethargy,Chronic Illness,Surgery,13.16,OWN1016,2024-10-12
+PET1017,Hamster,Winter White,8,Vomiting,Recovering,Therapy,4.19,OWN1017,2024-10-13
+PET1018,Hamster,Chinese,7,Coughing,Critical,Therapy,17.37,OWN1018,2024-10-14
+PET1019,Cat,Bengal,10,Lethargy,Critical,Observation,5.59,OWN1019,2024-10-15
+PET1020,Rabbit,Lionhead,7,Diarrhea,Healthy,Medication,37.93,OWN1020,2024-10-16
+PET1021,Dog,Beagle,5,Diarrhea,Recovering,Surgery,19.27,OWN1021,2024-10-17
+PET1022,Dog,Terrier,5,Vomiting,Recovering,Medication,13.03,OWN1022,2024-10-18
+PET1023,Bird,Cockatiel,11,Coughing,Minor Illness,None,30.77,OWN1023,2024-10-19
+PET1024,Hamster,Chinese,13,Coughing,Minor Illness,Surgery,20.17,OWN1024,2024-10-20
+PET1025,Dog,Beagle,5,Diarrhea,Minor Illness,Medication,12.75,OWN1025,2024-10-21
+PET1026,Hamster,Roborovski,1,Sneezing,Chronic Illness,Observation,32.57,OWN1026,2024-10-22
+PET1027,Dog,Beagle,8,Vomiting,Minor Illness,Observation,34.75,OWN1027,2024-10-23
+PET1028,Cat,Siamese,12,Vomiting,Recovering,Surgery,27.08,OWN1028,2024-10-24
+PET1029,Rabbit,Netherland Dwarf,11,Diarrhea,Chronic Illness,None,2.36,OWN1029,2024-10-25
+PET1030,Dog,Labrador,1,Diarrhea,Critical,Observation,22.87,OWN1030,2024-10-26
+PET1031,Hamster,Syrian,4,Sneezing,Healthy,Observation,30.65,OWN1031,2024-10-27
+PET1032,Cat,Maine Coon,9,Sneezing,Minor Illness,None,5.89,OWN1032,2024-10-28
+PET1033,Dog,Bulldog,14,Coughing,Critical,Medication,9.53,OWN1033,2024-10-29
+PET1034,Bird,Canary,9,Vomiting,Recovering,Observation,35.36,OWN1034,2024-10-30
+PET1035,Rabbit,Holland Lop,5,Vomiting,Healthy,Therapy,1.29,OWN1035,2024-10-31
+PET1036,Dog,Beagle,4,Diarrhea,Critical,Observation,30.23,OWN1036,2024-11-01
+PET1037,Cat,Bengal,3,Coughing,Healthy,Medication,19.21,OWN1037,2024-11-02
+PET1038,Bird,Parakeet,3,Vomiting,Minor Illness,Medication,18.15,OWN1038,2024-11-03
+PET1039,Cat,Sphynx,12,Coughing,Recovering,Surgery,0.78,OWN1039,2024-11-04
+PET1040,Cat,Bengal,5,Coughing,Healthy,Therapy,32.87,OWN1040,2024-11-05
+PET1041,Bird,Finch,10,Diarrhea,Critical,Medication,14.71,OWN1041,2024-11-06
+PET1042,Cat,Siamese,1,Coughing,Minor Illness,None,21.86,OWN1042,2024-11-07
+PET1043,Bird,Cockatiel,5,Sneezing,Minor Illness,Therapy,27.25,OWN1043,2024-11-08
+PET1044,Dog,Poodle,6,Sneezing,Critical,Therapy,28.25,OWN1044,2024-11-09
+PET1045,Bird,Canary,7,Lethargy,Critical,None,38.26,OWN1045,2024-11-10
+PET1046,Bird,Parrot,12,Diarrhea,Healthy,Observation,21.49,OWN1046,2024-11-11
+PET1047,Rabbit,Flemish Giant,9,Lethargy,Chronic Illness,None,16.29,OWN1047,2024-11-12
+PET1048,Bird,Parrot,3,Sneezing,Minor Illness,None,38.17,OWN1048,2024-11-13
+PET1049,Bird,Canary,2,Lethargy,Healthy,Observation,25.86,OWN1049,2024-11-14
+PET1050,Dog,Terrier,14,Diarrhea,Critical,Observation,12.28,OWN1050,2024-11-15
+PET1051,Rabbit,Mini Rex,3,Diarrhea,Healthy,Observation,5.5,OWN1051,2024-11-16
+PET1052,Hamster,Winter White,12,Coughing,Critical,Observation,33.78,OWN1052,2024-11-17
+PET1053,Dog,Bulldog,9,Vomiting,Recovering,Observation,14.81,OWN1053,2024-11-18
+PET1054,Dog,Poodle,12,Coughing,Critical,None,26.59,OWN1054,2024-11-19
+PET1055,Hamster,Roborovski,7,Diarrhea,Critical,Surgery,19.1,OWN1055,2024-11-20
+PET1056,Bird,Parrot,9,Sneezing,Critical,Surgery,8.36,OWN1056,2024-11-21
+PET1057,Cat,Bengal,13,Sneezing,Chronic Illness,Medication,24.27,OWN1057,2024-11-22
+PET1058,Rabbit,Mini Rex,2,Coughing,Critical,Surgery,2.9,OWN1058,2024-11-23
+PET1059,Cat,Sphynx,5,Diarrhea,Minor Illness,Surgery,16.83,OWN1059,2024-11-24
+PET1060,Hamster,Dwarf Campbell,13,Sneezing,Minor Illness,None,22.09,OWN1060,2024-11-25
+PET1061,Dog,Beagle,4,Diarrhea,Healthy,Observation,17.72,OWN1061,2024-11-26
+PET1062,Dog,Terrier,2,Sneezing,Chronic Illness,Observation,30.07,OWN1062,2024-11-27
+PET1063,Rabbit,Mini Rex,9,Diarrhea,Healthy,None,33.2,OWN1063,2024-11-28
+PET1064,Dog,Bulldog,9,Lethargy,Minor Illness,Surgery,30.96,OWN1064,2024-11-29
+PET1065,Dog,Poodle,6,Diarrhea,Minor Illness,None,2.03,OWN1065,2024-11-30
+PET1066,Rabbit,Netherland Dwarf,11,Diarrhea,Recovering,Medication,8.17,OWN1066,2024-12-01
+PET1067,Rabbit,Lionhead,6,Coughing,Critical,Observation,21.7,OWN1067,2024-12-02
+PET1068,Hamster,Chinese,8,Lethargy,Minor Illness,Therapy,37.43,OWN1068,2024-12-03
+PET1069,Dog,Terrier,6,Vomiting,Healthy,Medication,33.48,OWN1069,2024-12-04
+PET1070,Dog,Poodle,1,Coughing,Healthy,Medication,33.78,OWN1070,2024-12-05
+PET1071,Hamster,Winter White,4,Vomiting,Critical,None,12.48,OWN1071,2024-12-06
+PET1072,Bird,Cockatiel,13,Sneezing,Critical,Surgery,17.46,OWN1072,2024-12-07
+PET1073,Bird,Parrot,7,Vomiting,Recovering,Observation,19.09,OWN1073,2024-12-08
+PET1074,Bird,Finch,13,Diarrhea,Chronic Illness,Therapy,6.72,OWN1074,2024-12-09
+PET1075,Hamster,Roborovski,13,Vomiting,Healthy,Medication,1.73,OWN1075,2024-12-10
+PET1076,Dog,Terrier,2,Coughing,Critical,Therapy,37.9,OWN1076,2024-12-11
+PET1077,Hamster,Chinese,9,Coughing,Healthy,Surgery,10.01,OWN1077,2024-12-12
+PET1078,Hamster,Syrian,8,Vomiting,Critical,Surgery,9.98,OWN1078,2024-12-13
+PET1079,Bird,Cockatiel,8,Coughing,Minor Illness,Therapy,3.79,OWN1079,2024-12-14
+PET1080,Cat,Persian,7,Coughing,Healthy,Observation,37.18,OWN1080,2024-12-15
+PET1081,Dog,Beagle,4,Vomiting,Minor Illness,Surgery,23.4,OWN1081,2024-12-16
+PET1082,Bird,Parrot,2,Lethargy,Healthy,Therapy,26.85,OWN1082,2024-12-17
+PET1083,Cat,Bengal,3,Lethargy,Chronic Illness,Medication,36.51,OWN1083,2024-12-18
+PET1084,Cat,Sphynx,12,Sneezing,Recovering,Therapy,14.15,OWN1084,2024-12-19
+PET1085,Rabbit,Lionhead,6,Coughing,Minor Illness,Therapy,25.05,OWN1085,2024-12-20
+PET1086,Dog,Labrador,12,Vomiting,Critical,None,2.03,OWN1086,2024-12-21
+PET1087,Cat,Bengal,12,Coughing,Chronic Illness,Surgery,7.88,OWN1087,2024-12-22
+PET1088,Bird,Finch,5,Diarrhea,Healthy,Observation,33.33,OWN1088,2024-12-23
+PET1089,Rabbit,Netherland Dwarf,12,Coughing,Minor Illness,Observation,30.79,OWN1089,2024-12-24
+PET1090,Dog,Beagle,8,Coughing,Healthy,None,14.35,OWN1090,2024-12-25
+PET1091,Hamster,Roborovski,6,Lethargy,Healthy,Observation,15.38,OWN1091,2024-12-26
+PET1092,Bird,Parrot,6,Vomiting,Healthy,Therapy,21.58,OWN1092,2024-12-27
+PET1093,Cat,Persian,1,Coughing,Recovering,None,0.51,OWN1093,2024-12-28
+PET1094,Cat,Sphynx,4,Lethargy,Recovering,Medication,10.03,OWN1094,2024-12-29
+PET1095,Bird,Finch,5,Sneezing,Critical,Surgery,8.73,OWN1095,2024-12-30
+PET1096,Cat,Maine Coon,12,Lethargy,Minor Illness,Surgery,10.39,OWN1096,2024-12-31
+PET1097,Rabbit,Netherland Dwarf,11,Lethargy,Chronic Illness,Surgery,32.33,OWN1097,2025-01-01
+PET1098,Dog,Labrador,3,Lethargy,Chronic Illness,Therapy,11.55,OWN1098,2025-01-02
+PET1099,Rabbit,Mini Rex,13,Coughing,Chronic Illness,Medication,8.07,OWN1099,2025-01-03
+PET1100,Cat,Siamese,9,Coughing,Healthy,None,20.42,OWN1100,2025-01-04
+PET1101,Hamster,Chinese,1,Sneezing,Recovering,None,34.69,OWN1101,2025-01-05
+PET1102,Dog,Bulldog,6,Diarrhea,Minor Illness,Surgery,10.03,OWN1102,2025-01-06
+PET1103,Dog,Beagle,6,Diarrhea,Healthy,Medication,3.6,OWN1103,2025-01-07
+PET1104,Bird,Canary,10,Diarrhea,Recovering,Medication,14.58,OWN1104,2025-01-08
+PET1105,Bird,Canary,5,Sneezing,Recovering,Medication,30.03,OWN1105,2025-01-09
+PET1106,Hamster,Chinese,12,Diarrhea,Minor Illness,Observation,22.25,OWN1106,2025-01-10
+PET1107,Dog,Labrador,5,Diarrhea,Minor Illness,Observation,32.76,OWN1107,2025-01-11
+PET1108,Hamster,Syrian,10,Lethargy,Minor Illness,Surgery,38.4,OWN1108,2025-01-12
+PET1109,Bird,Canary,14,Coughing,Healthy,Medication,31.81,OWN1109,2025-01-13
+PET1110,Bird,Cockatiel,13,Coughing,Critical,Medication,24.35,OWN1110,2025-01-14
+PET1111,Dog,Labrador,5,Lethargy,Minor Illness,None,19.99,OWN1111,2025-01-15
+PET1112,Rabbit,Flemish Giant,6,Lethargy,Critical,None,2.08,OWN1112,2025-01-16
+PET1113,Cat,Maine Coon,8,Lethargy,Healthy,Surgery,39.38,OWN1113,2025-01-17
+PET1114,Bird,Finch,2,Coughing,Critical,Medication,15.65,OWN1114,2025-01-18
+PET1115,Bird,Finch,6,Diarrhea,Chronic Illness,Surgery,6.51,OWN1115,2025-01-19
+PET1116,Rabbit,Mini Rex,1,Lethargy,Critical,None,26.83,OWN1116,2025-01-20
+PET1117,Rabbit,Netherland Dwarf,4,Sneezing,Minor Illness,None,11.73,OWN1117,2025-01-21
+PET1118,Hamster,Chinese,14,Lethargy,Healthy,Observation,23.64,OWN1118,2025-01-22
+PET1119,Hamster,Winter White,10,Vomiting,Minor Illness,Surgery,23.68,OWN1119,2025-01-23
+PET1120,Cat,Bengal,3,Lethargy,Chronic Illness,Surgery,18.11,OWN1120,2025-01-24
+PET1121,Cat,Bengal,9,Coughing,Minor Illness,Medication,33.53,OWN1121,2025-01-25
+PET1122,Dog,Beagle,3,Lethargy,Minor Illness,Medication,10.97,OWN1122,2025-01-26
+PET1123,Hamster,Roborovski,6,Vomiting,Minor Illness,Observation,18.22,OWN1123,2025-01-27
+PET1124,Bird,Canary,1,Sneezing,Recovering,Therapy,21.74,OWN1124,2025-01-28
+PET1125,Hamster,Winter White,12,Diarrhea,Chronic Illness,Therapy,26.71,OWN1125,2025-01-29
+PET1126,Bird,Cockatiel,6,Lethargy,Minor Illness,Therapy,31.47,OWN1126,2025-01-30
+PET1127,Rabbit,Mini Rex,4,Vomiting,Minor Illness,Surgery,16.09,OWN1127,2025-01-31
+PET1128,Hamster,Dwarf Campbell,8,Vomiting,Minor Illness,Surgery,26.02,OWN1128,2025-02-01
+PET1129,Rabbit,Flemish Giant,13,Sneezing,Healthy,None,6.45,OWN1129,2025-02-02
+PET1130,Cat,Bengal,11,Coughing,Recovering,Surgery,37.34,OWN1130,2025-02-03
+PET1131,Cat,Siamese,9,Lethargy,Healthy,Surgery,15.63,OWN1131,2025-02-04
+PET1132,Dog,Terrier,4,Vomiting,Recovering,Surgery,29.32,OWN1132,2025-02-05
+PET1133,Hamster,Chinese,10,Sneezing,Minor Illness,Observation,1.3,OWN1133,2025-02-06
+PET1134,Rabbit,Holland Lop,12,Diarrhea,Chronic Illness,Surgery,8.6,OWN1134,2025-02-07
+PET1135,Bird,Parakeet,10,Vomiting,Critical,Medication,19.74,OWN1135,2025-02-08
+PET1136,Cat,Sphynx,6,Sneezing,Critical,Medication,35.19,OWN1136,2025-02-09
+PET1137,Cat,Maine Coon,1,Coughing,Minor Illness,None,21.33,OWN1137,2025-02-10
+PET1138,Bird,Cockatiel,4,Coughing,Healthy,Observation,37.23,OWN1138,2025-02-11
+PET1139,Rabbit,Netherland Dwarf,7,Vomiting,Chronic Illness,Medication,19.61,OWN1139,2025-02-12
+PET1140,Rabbit,Flemish Giant,12,Vomiting,Recovering,Observation,19.87,OWN1140,2025-02-13
+PET1141,Hamster,Chinese,1,Lethargy,Minor Illness,Observation,5.23,OWN1141,2025-02-14
+PET1142,Hamster,Dwarf Campbell,8,Sneezing,Chronic Illness,None,32.2,OWN1142,2025-02-15
+PET1143,Dog,Beagle,12,Vomiting,Chronic Illness,Observation,10.26,OWN1143,2025-02-16
+PET1144,Cat,Maine Coon,10,Lethargy,Recovering,Surgery,36.03,OWN1144,2025-02-17
+PET1145,Hamster,Chinese,12,Lethargy,Chronic Illness,Observation,36.48,OWN1145,2025-02-18
+PET1146,Rabbit,Flemish Giant,11,Vomiting,Healthy,None,37.76,OWN1146,2025-02-19
+PET1147,Bird,Finch,6,Coughing,Healthy,None,21.05,OWN1147,2025-02-20
+PET1148,Rabbit,Holland Lop,5,Sneezing,Healthy,None,27.25,OWN1148,2025-02-21
+PET1149,Cat,Maine Coon,10,Sneezing,Chronic Illness,Medication,31.25,OWN1149,2025-02-22
+PET1150,Rabbit,Mini Rex,11,Coughing,Healthy,Surgery,5.68,OWN1150,2025-02-23
+PET1151,Dog,Bulldog,14,Vomiting,Recovering,Medication,24.24,OWN1151,2025-02-24
+PET1152,Cat,Persian,9,Sneezing,Chronic Illness,Therapy,1.85,OWN1152,2025-02-25
+PET1153,Bird,Cockatiel,2,Vomiting,Critical,Surgery,20.15,OWN1153,2025-02-26
+PET1154,Dog,Bulldog,5,Vomiting,Chronic Illness,Observation,6.62,OWN1154,2025-02-27
+PET1155,Cat,Maine Coon,6,Lethargy,Recovering,None,7.73,OWN1155,2025-02-28
+PET1156,Bird,Cockatiel,7,Coughing,Critical,Therapy,14.92,OWN1156,2025-03-01
+PET1157,Dog,Bulldog,5,Vomiting,Chronic Illness,Surgery,17.58,OWN1157,2025-03-02
+PET1158,Dog,Labrador,9,Diarrhea,Healthy,Medication,25.12,OWN1158,2025-03-03
+PET1159,Cat,Siamese,1,Coughing,Minor Illness,None,3.44,OWN1159,2025-03-04
+PET1160,Hamster,Dwarf Campbell,7,Sneezing,Minor Illness,Medication,20.4,OWN1160,2025-03-05
+PET1161,Dog,Bulldog,10,Lethargy,Healthy,Surgery,7.71,OWN1161,2025-03-06
+PET1162,Dog,Labrador,7,Sneezing,Minor Illness,Surgery,23.17,OWN1162,2025-03-07
+PET1163,Bird,Finch,4,Sneezing,Minor Illness,Therapy,25.68,OWN1163,2025-03-08
+PET1164,Rabbit,Flemish Giant,9,Coughing,Healthy,Observation,22.49,OWN1164,2025-03-09
+PET1165,Cat,Maine Coon,14,Sneezing,Healthy,Medication,29.66,OWN1165,2025-03-10
+PET1166,Cat,Maine Coon,12,Vomiting,Chronic Illness,Therapy,13.76,OWN1166,2025-03-11
+PET1167,Hamster,Syrian,11,Sneezing,Chronic Illness,None,30.72,OWN1167,2025-03-12
+PET1168,Hamster,Chinese,5,Lethargy,Healthy,Observation,17.59,OWN1168,2025-03-13
+PET1169,Cat,Sphynx,4,Lethargy,Recovering,Therapy,19.63,OWN1169,2025-03-14
+PET1170,Hamster,Syrian,13,Diarrhea,Minor Illness,Medication,26.1,OWN1170,2025-03-15
+PET1171,Bird,Parrot,7,Lethargy,Chronic Illness,Surgery,1.23,OWN1171,2025-03-16
+PET1172,Cat,Bengal,4,Sneezing,Minor Illness,None,26.33,OWN1172,2025-03-17
+PET1173,Hamster,Chinese,3,Lethargy,Critical,Medication,24.93,OWN1173,2025-03-18
+PET1174,Cat,Maine Coon,9,Coughing,Healthy,Observation,12.74,OWN1174,2025-03-19
+PET1175,Rabbit,Flemish Giant,11,Lethargy,Recovering,Observation,3.89,OWN1175,2025-03-20
+PET1176,Dog,Poodle,8,Vomiting,Critical,Surgery,4.09,OWN1176,2025-03-21
+PET1177,Cat,Siamese,1,Coughing,Critical,Surgery,36.97,OWN1177,2025-03-22
+PET1178,Dog,Beagle,7,Diarrhea,Critical,None,27.73,OWN1178,2025-03-23
+PET1179,Hamster,Winter White,9,Vomiting,Healthy,None,5.52,OWN1179,2025-03-24
+PET1180,Dog,Labrador,8,Sneezing,Chronic Illness,Surgery,14.59,OWN1180,2025-03-25
+PET1181,Cat,Bengal,8,Sneezing,Healthy,Surgery,23.9,OWN1181,2025-03-26
+PET1182,Rabbit,Mini Rex,13,Sneezing,Chronic Illness,Observation,33.51,OWN1182,2025-03-27
+PET1183,Hamster,Dwarf Campbell,6,Vomiting,Critical,Surgery,2.22,OWN1183,2025-03-28
+PET1184,Cat,Persian,11,Vomiting,Critical,Therapy,9.85,OWN1184,2025-03-29
+PET1185,Hamster,Roborovski,4,Vomiting,Recovering,Medication,35.65,OWN1185,2025-03-30
+PET1186,Bird,Cockatiel,8,Coughing,Chronic Illness,Surgery,0.86,OWN1186,2025-03-31
+PET1187,Dog,Poodle,3,Coughing,Critical,None,8.46,OWN1187,2025-04-01
+PET1188,Bird,Parrot,13,Sneezing,Minor Illness,Therapy,38.38,OWN1188,2025-04-02
+PET1189,Cat,Sphynx,9,Lethargy,Recovering,None,24.73,OWN1189,2025-04-03
+PET1190,Rabbit,Holland Lop,13,Sneezing,Healthy,Therapy,10.84,OWN1190,2025-04-04
+PET1191,Hamster,Roborovski,2,Diarrhea,Recovering,Surgery,3.15,OWN1191,2025-04-05
+PET1192,Dog,Terrier,2,Coughing,Minor Illness,Medication,1.61,OWN1192,2025-04-06
+PET1193,Hamster,Roborovski,12,Vomiting,Chronic Illness,None,10.17,OWN1193,2025-04-07
+PET1194,Cat,Sphynx,13,Coughing,Healthy,Therapy,35.32,OWN1194,2025-04-08
+PET1195,Hamster,Roborovski,12,Vomiting,Healthy,Observation,16.93,OWN1195,2025-04-09
+PET1196,Dog,Beagle,7,Diarrhea,Chronic Illness,Surgery,28.95,OWN1196,2025-04-10
+PET1197,Cat,Maine Coon,12,Diarrhea,Recovering,Medication,36.77,OWN1197,2025-04-11
+PET1198,Hamster,Dwarf Campbell,10,Coughing,Critical,Surgery,16.62,OWN1198,2025-04-12
+PET1199,Rabbit,Lionhead,4,Vomiting,Recovering,Observation,8.06,OWN1199,2025-04-13
+PET1200,Cat,Sphynx,10,Diarrhea,Minor Illness,Medication,20.93,OWN1200,2025-04-14
+PET1201,Cat,Sphynx,8,Sneezing,Critical,Observation,36.37,OWN1201,2025-04-15
+PET1202,Rabbit,Mini Rex,9,Sneezing,Recovering,Surgery,32.27,OWN1202,2025-04-16
+PET1203,Bird,Parakeet,7,Vomiting,Chronic Illness,Therapy,3.1,OWN1203,2025-04-17
+PET1204,Dog,Labrador,5,Coughing,Minor Illness,Surgery,27.86,OWN1204,2025-04-18
+PET1205,Bird,Cockatiel,8,Diarrhea,Minor Illness,Surgery,23.09,OWN1205,2025-04-19
+PET1206,Hamster,Dwarf Campbell,4,Coughing,Minor Illness,Surgery,36.34,OWN1206,2025-04-20
+PET1207,Rabbit,Mini Rex,2,Sneezing,Critical,None,5.34,OWN1207,2025-04-21
+PET1208,Bird,Parakeet,11,Diarrhea,Healthy,Observation,21.59,OWN1208,2025-04-22
+PET1209,Cat,Persian,12,Coughing,Critical,Observation,35.24,OWN1209,2025-04-23
+PET1210,Hamster,Chinese,6,Lethargy,Recovering,Observation,16.7,OWN1210,2025-04-24
+PET1211,Hamster,Dwarf Campbell,9,Vomiting,Healthy,None,19.54,OWN1211,2025-04-25
+PET1212,Bird,Finch,1,Vomiting,Recovering,Therapy,3.28,OWN1212,2025-04-26
+PET1213,Bird,Parrot,11,Lethargy,Healthy,Surgery,11.49,OWN1213,2025-04-27
+PET1214,Rabbit,Holland Lop,10,Sneezing,Critical,Therapy,13.32,OWN1214,2025-04-28
+PET1215,Dog,Bulldog,12,Diarrhea,Minor Illness,None,37.83,OWN1215,2025-04-29
+PET1216,Bird,Parrot,7,Vomiting,Chronic Illness,Observation,11.67,OWN1216,2025-04-30
+PET1217,Bird,Parakeet,10,Lethargy,Minor Illness,Surgery,18.7,OWN1217,2025-05-01
+PET1218,Cat,Bengal,9,Lethargy,Critical,Medication,27.02,OWN1218,2025-05-02
+PET1219,Hamster,Chinese,10,Sneezing,Healthy,Medication,6.91,OWN1219,2025-05-03
+PET1220,Dog,Labrador,9,Sneezing,Minor Illness,Therapy,19.71,OWN1220,2025-05-04
+PET1221,Cat,Bengal,10,Coughing,Critical,Observation,29.67,OWN1221,2025-05-05
+PET1222,Rabbit,Holland Lop,11,Vomiting,Recovering,Medication,34.74,OWN1222,2025-05-06
+PET1223,Rabbit,Flemish Giant,13,Coughing,Chronic Illness,Therapy,25.24,OWN1223,2025-05-07
+PET1224,Bird,Cockatiel,3,Lethargy,Minor Illness,None,26.93,OWN1224,2025-05-08
+PET1225,Bird,Parakeet,11,Diarrhea,Healthy,Therapy,5.49,OWN1225,2025-05-09
+PET1226,Rabbit,Netherland Dwarf,13,Diarrhea,Recovering,Therapy,37.86,OWN1226,2025-05-10
+PET1227,Bird,Parakeet,5,Sneezing,Critical,Therapy,5.74,OWN1227,2025-05-11
+PET1228,Dog,Poodle,8,Diarrhea,Chronic Illness,Surgery,31.1,OWN1228,2025-05-12
+PET1229,Bird,Parakeet,8,Diarrhea,Healthy,Therapy,10.96,OWN1229,2025-05-13
+PET1230,Hamster,Dwarf Campbell,4,Diarrhea,Critical,Therapy,37.38,OWN1230,2025-05-14
+PET1231,Bird,Canary,12,Lethargy,Critical,Surgery,28.94,OWN1231,2025-05-15
+PET1232,Cat,Siamese,11,Diarrhea,Minor Illness,Surgery,30.28,OWN1232,2025-05-16
+PET1233,Dog,Terrier,11,Diarrhea,Minor Illness,None,9.15,OWN1233,2025-05-17
+PET1234,Cat,Bengal,1,Diarrhea,Healthy,Observation,18.0,OWN1234,2025-05-18
+PET1235,Cat,Siamese,1,Coughing,Critical,Medication,24.9,OWN1235,2025-05-19
+PET1236,Hamster,Winter White,4,Lethargy,Minor Illness,Medication,30.91,OWN1236,2025-05-20
+PET1237,Dog,Bulldog,6,Sneezing,Chronic Illness,Therapy,4.61,OWN1237,2025-05-21
+PET1238,Dog,Poodle,8,Coughing,Chronic Illness,None,38.51,OWN1238,2025-05-22
+PET1239,Dog,Bulldog,6,Vomiting,Critical,Therapy,35.66,OWN1239,2025-05-23
+PET1240,Dog,Beagle,12,Lethargy,Minor Illness,Medication,11.18,OWN1240,2025-05-24
+PET1241,Dog,Beagle,9,Lethargy,Healthy,Surgery,33.0,OWN1241,2025-05-25
+PET1242,Hamster,Roborovski,9,Vomiting,Healthy,Observation,20.97,OWN1242,2025-05-26
+PET1243,Bird,Parrot,14,Vomiting,Healthy,None,18.74,OWN1243,2025-05-27
+PET1244,Cat,Sphynx,2,Vomiting,Chronic Illness,Surgery,12.92,OWN1244,2025-05-28
+PET1245,Dog,Bulldog,10,Sneezing,Minor Illness,Observation,23.45,OWN1245,2025-05-29
+PET1246,Bird,Canary,1,Diarrhea,Minor Illness,None,29.33,OWN1246,2025-05-30
+PET1247,Bird,Parrot,2,Lethargy,Chronic Illness,None,16.73,OWN1247,2025-05-31
+PET1248,Cat,Maine Coon,5,Diarrhea,Healthy,Medication,25.35,OWN1248,2025-06-01
+PET1249,Hamster,Dwarf Campbell,4,Diarrhea,Healthy,Surgery,28.12,OWN1249,2025-06-02
+PET1250,Rabbit,Lionhead,4,Vomiting,Critical,None,28.59,OWN1250,2025-06-03
+PET1251,Rabbit,Flemish Giant,9,Sneezing,Recovering,None,2.55,OWN1251,2025-06-04
+PET1252,Bird,Cockatiel,11,Coughing,Minor Illness,Observation,34.46,OWN1252,2025-06-05
+PET1253,Cat,Persian,8,Sneezing,Minor Illness,Medication,18.6,OWN1253,2025-06-06
+PET1254,Rabbit,Netherland Dwarf,6,Diarrhea,Minor Illness,Therapy,10.87,OWN1254,2025-06-07
+PET1255,Bird,Parakeet,1,Sneezing,Recovering,Medication,10.05,OWN1255,2025-06-08
+PET1256,Hamster,Syrian,2,Vomiting,Critical,Therapy,19.58,OWN1256,2025-06-09
+PET1257,Rabbit,Mini Rex,6,Coughing,Recovering,Surgery,35.53,OWN1257,2025-06-10
+PET1258,Bird,Canary,11,Vomiting,Healthy,Surgery,15.44,OWN1258,2025-06-11
+PET1259,Bird,Cockatiel,2,Coughing,Healthy,None,30.11,OWN1259,2025-06-12
+PET1260,Dog,Beagle,13,Diarrhea,Minor Illness,Surgery,4.32,OWN1260,2025-06-13
+PET1261,Hamster,Winter White,10,Coughing,Chronic Illness,None,19.3,OWN1261,2025-06-14
+PET1262,Dog,Poodle,5,Coughing,Minor Illness,Medication,39.67,OWN1262,2025-06-15
+PET1263,Cat,Persian,14,Coughing,Chronic Illness,Surgery,30.93,OWN1263,2025-06-16
+PET1264,Dog,Terrier,5,Sneezing,Recovering,Medication,8.82,OWN1264,2025-06-17
+PET1265,Dog,Labrador,6,Sneezing,Healthy,Medication,20.31,OWN1265,2025-06-18
+PET1266,Rabbit,Lionhead,6,Diarrhea,Chronic Illness,Surgery,9.73,OWN1266,2025-06-19
+PET1267,Bird,Finch,14,Coughing,Recovering,Medication,16.68,OWN1267,2025-06-20
+PET1268,Hamster,Syrian,6,Lethargy,Healthy,Surgery,31.31,OWN1268,2025-06-21
+PET1269,Dog,Terrier,14,Diarrhea,Chronic Illness,Surgery,30.96,OWN1269,2025-06-22
+PET1270,Hamster,Chinese,2,Coughing,Minor Illness,Surgery,9.51,OWN1270,2025-06-23
+PET1271,Dog,Labrador,14,Coughing,Minor Illness,Therapy,36.93,OWN1271,2025-06-24
+PET1272,Cat,Sphynx,10,Sneezing,Minor Illness,Medication,23.91,OWN1272,2025-06-25
+PET1273,Dog,Labrador,14,Diarrhea,Recovering,Observation,15.51,OWN1273,2025-06-26
+PET1274,Rabbit,Holland Lop,13,Coughing,Minor Illness,Surgery,20.33,OWN1274,2025-06-27
+PET1275,Bird,Canary,14,Coughing,Critical,Medication,24.4,OWN1275,2025-06-28
+PET1276,Cat,Sphynx,3,Diarrhea,Healthy,None,22.62,OWN1276,2025-06-29
+PET1277,Dog,Bulldog,14,Lethargy,Recovering,Surgery,19.71,OWN1277,2025-06-30
+PET1278,Hamster,Dwarf Campbell,6,Diarrhea,Minor Illness,Surgery,20.44,OWN1278,2025-07-01
+PET1279,Cat,Siamese,13,Diarrhea,Healthy,Observation,7.47,OWN1279,2025-07-02
+PET1280,Cat,Siamese,8,Lethargy,Chronic Illness,Therapy,32.6,OWN1280,2025-07-03
+PET1281,Dog,Labrador,12,Diarrhea,Minor Illness,Therapy,21.9,OWN1281,2025-07-04
+PET1282,Cat,Sphynx,13,Coughing,Healthy,Surgery,5.68,OWN1282,2025-07-05
+PET1283,Hamster,Winter White,11,Diarrhea,Critical,Medication,30.76,OWN1283,2025-07-06
+PET1284,Cat,Persian,12,Lethargy,Chronic Illness,None,37.33,OWN1284,2025-07-07
+PET1285,Hamster,Chinese,1,Vomiting,Critical,None,37.92,OWN1285,2025-07-08
+PET1286,Dog,Beagle,1,Diarrhea,Healthy,Medication,15.08,OWN1286,2025-07-09
+PET1287,Bird,Finch,11,Sneezing,Critical,Surgery,5.85,OWN1287,2025-07-10
+PET1288,Cat,Siamese,13,Coughing,Healthy,None,20.98,OWN1288,2025-07-11
+PET1289,Bird,Parrot,2,Coughing,Healthy,Therapy,4.95,OWN1289,2025-07-12
+PET1290,Hamster,Syrian,11,Sneezing,Critical,Medication,37.39,OWN1290,2025-07-13
+PET1291,Cat,Persian,12,Sneezing,Healthy,Observation,7.75,OWN1291,2025-07-14
+PET1292,Rabbit,Netherland Dwarf,12,Diarrhea,Minor Illness,Surgery,10.48,OWN1292,2025-07-15
+PET1293,Bird,Parrot,6,Sneezing,Healthy,Medication,16.56,OWN1293,2025-07-16
+PET1294,Cat,Persian,9,Vomiting,Recovering,None,15.63,OWN1294,2025-07-17
+PET1295,Bird,Cockatiel,4,Lethargy,Healthy,Surgery,31.89,OWN1295,2025-07-18
+PET1296,Cat,Sphynx,3,Sneezing,Recovering,Therapy,18.52,OWN1296,2025-07-19
+PET1297,Dog,Beagle,12,Sneezing,Healthy,Surgery,7.25,OWN1297,2025-07-20
+PET1298,Bird,Parrot,8,Vomiting,Healthy,Surgery,11.05,OWN1298,2025-07-21
+PET1299,Rabbit,Netherland Dwarf,11,Coughing,Critical,Therapy,20.61,OWN1299,2025-07-22
+PET1300,Rabbit,Netherland Dwarf,10,Coughing,Minor Illness,Therapy,6.32,OWN1300,2025-07-23
